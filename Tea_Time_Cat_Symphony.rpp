@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "5.961/x64" 1540563457
+<REAPER_PROJECT 0.1 "5.961/x64" 1540566417
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,8 +14,8 @@
   TIMEMODE 1 5 -1 30 0
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 42.94721088435315
-  ZOOM 18.09988511555584 405 0
+  CURSOR 95
+  ZOOM 13.26000598650063 935 0
   VZOOMEX 0
   USE_REC_CFG 0
   RECMODE 1
@@ -56,8 +56,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 0 0
-  SELECTION2 0 0
+  SELECTION 91 47
+  SELECTION2 91 47
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -89,7 +89,7 @@
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 0.86872391523433 -0.464 -1 -1 1
+    VOLPAN 0.86402374990307 -0.464 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     ISBUS 0 0
@@ -117,8 +117,12 @@
       PT 2 0.01 0
       PT 5.5 2 0
       PT 23.5 2 0
-      PT 23.5 0.01 0 0 1
+      PT 23.5 0.01 0
       PT 25 0 0
+      PT 42 0 0
+      PT 46 1.93 0
+      PT 96 1.92 0
+      PT 96 0 0 0 1
     >
     <FXCHAIN
       WNDRECT 112 46 716 610
@@ -660,7 +664,7 @@
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 1 -0.456 -1 -1 1
+    VOLPAN 0.58408179385335 -0.456 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     ISBUS 0 0
@@ -684,10 +688,14 @@
       LANEHEIGHT 0 0
       ARM 1
       DEFSHAPE 0 -1 -1
-      PT 0 2 0 0 1
+      PT 0 2 0
       PT 24 2 0
       PT 24 0 0
       PT 25 0.01 0
+      PT 45 0.01 0
+      PT 45 1.98 0
+      PT 96 1.98 0
+      PT 96 0 0 0 1
     >
     <FXCHAIN
       WNDRECT 112 60 655 408
@@ -1229,7 +1237,7 @@
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 1 -0.456 -1 -1 1
+    VOLPAN 0.24114017177058 -0.456 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     ISBUS 0 0
@@ -1255,7 +1263,11 @@
       DEFSHAPE 0 -1 -1
       PT 0 2 0
       PT 24 2 0
-      PT 24 0 0 0 1
+      PT 24 0 0
+      PT 51 0.01 0
+      PT 51 1.96 0
+      PT 89 1.92 0
+      PT 89 0.01 0 0 1
     >
     <ITEM
       POSITION 10.5
@@ -1769,7 +1781,7 @@
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 1 0.6 -1 -1 1
+    VOLPAN 0.8829554344746 0.6 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     ISBUS 0 0
@@ -1793,10 +1805,10 @@
       LANEHEIGHT 0 0
       ARM 0
       DEFSHAPE 0 -1 -1
-      PT 0 2 0
-      PT 24 1.99 0
-      PT 24 0.01 0
-      PT 66 0.01 0
+      PT 24 1.15 0
+      PT 24 0 0
+      PT 53 0.01 0
+      PT 53 1.02 0
     >
     <ITEM
       POSITION 16.38607709750567
@@ -1992,6 +2004,204 @@
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {D0992EF9-0110-4736-9B09-116046F46ACE}
+      <SOURCE WAVE
+        FILE "cat_sounds\260881__trautwein__cat-purr.wav"
+      >
+    >
+    <ITEM
+      POSITION 56
+      SNAPOFFS 0
+      LENGTH 3.11392290249434
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {698F97BB-6FC9-41E7-97E0-E73F8915FF09}
+      IID 1
+      NAME 260881__trautwein__cat-purr.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {22FC6A00-2C38-4EAA-B0EE-A2C3F3368D08}
+      <SOURCE WAVE
+        FILE "cat_sounds\260881__trautwein__cat-purr.wav"
+      >
+    >
+    <ITEM
+      POSITION 60.88607709750067
+      SNAPOFFS 0
+      LENGTH 3.11392290249434
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4E5A0C95-EFD7-435D-9DCD-9B17AD77F8FB}
+      IID 1
+      NAME 260881__trautwein__cat-purr.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D856ABD3-42D1-4678-B8A0-79A9AABE149D}
+      <SOURCE WAVE
+        FILE "cat_sounds\260881__trautwein__cat-purr.wav"
+      >
+    >
+    <ITEM
+      POSITION 65
+      SNAPOFFS 0
+      LENGTH 3.11392290249432
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {BCCD226A-45A8-4FAF-9C57-4ADCBAD98884}
+      IID 1
+      NAME 260881__trautwein__cat-purr.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {645539A2-08A2-417F-8544-5CD4A60E07F2}
+      <SOURCE WAVE
+        FILE "cat_sounds\260881__trautwein__cat-purr.wav"
+      >
+    >
+    <ITEM
+      POSITION 69.5
+      SNAPOFFS 0
+      LENGTH 3.11392290249432
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {EA77F195-9309-403D-93CB-6342AC6F60EB}
+      IID 1
+      NAME 260881__trautwein__cat-purr.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6BC85609-191B-45F7-84BA-7D5A763E4E7C}
+      <SOURCE WAVE
+        FILE "cat_sounds\260881__trautwein__cat-purr.wav"
+      >
+    >
+    <ITEM
+      POSITION 74
+      SNAPOFFS 0
+      LENGTH 3.11392290249432
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D0D84545-1C91-4E78-B138-89C444AEDA79}
+      IID 1
+      NAME 260881__trautwein__cat-purr.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {39B342B8-BF49-46FB-8FDA-80BAF06945EC}
+      <SOURCE WAVE
+        FILE "cat_sounds\260881__trautwein__cat-purr.wav"
+      >
+    >
+    <ITEM
+      POSITION 78.88607709750067
+      SNAPOFFS 0
+      LENGTH 3.11392290249432
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5CD39B6D-C5B9-4D89-8DF7-918FD976ABDF}
+      IID 1
+      NAME 260881__trautwein__cat-purr.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C032A4A2-D480-492E-BED2-62E28FC21947}
+      <SOURCE WAVE
+        FILE "cat_sounds\260881__trautwein__cat-purr.wav"
+      >
+    >
+    <ITEM
+      POSITION 83
+      SNAPOFFS 0
+      LENGTH 3.11392290249432
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F5FEFA20-FC8F-4730-8E9E-8B5700C87A1C}
+      IID 1
+      NAME 260881__trautwein__cat-purr.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {72FF0C61-6D33-47A5-B348-14EA289B1CBE}
+      <SOURCE WAVE
+        FILE "cat_sounds\260881__trautwein__cat-purr.wav"
+      >
+    >
+    <ITEM
+      POSITION 87.5
+      SNAPOFFS 0
+      LENGTH 3.11392290249432
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {80D7F352-174C-4931-97C5-9505EA2FF07E}
+      IID 1
+      NAME 260881__trautwein__cat-purr.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8DC8CC49-442D-4E2B-8627-C0FE5DE04B34}
+      <SOURCE WAVE
+        FILE "cat_sounds\260881__trautwein__cat-purr.wav"
+      >
+    >
+    <ITEM
+      POSITION 90.61392290249432
+      SNAPOFFS 0
+      LENGTH 11.61392290249933
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 4.01 0 1 0 0
+      MUTE 0
+      SEL 1
+      IGUID {D3D37F03-030E-48A4-83DB-720FA28D01B8}
+      IID 1
+      NAME 260881__trautwein__cat-purr.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {52DC5A15-A5E6-4B69-B0CB-4189D79F063B}
       <SOURCE WAVE
         FILE "cat_sounds\260881__trautwein__cat-purr.wav"
       >
@@ -2203,7 +2413,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -2226,6 +2436,7 @@
       PT 34.9995 1.66878555 0
       PT 35.4995 1.56959367 0
       PT 42 0.34 0 0 1
+      PT 56 0.34 0
     >
     <ITEM
       POSITION 35.5
@@ -2323,8 +2534,8 @@
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 1 0 0
+    VOLPAN 3.98107170553497 0 -1 -1 1
+    MUTESOLO 0 0 0
     IPHASE 0
     ISBUS 0 0
     BUSCOMP 0 0
@@ -2342,9 +2553,9 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 0
+      POSITION 41.70916099773243
       SNAPOFFS 0
-      LENGTH 20.21347916666667
+      LENGTH 16.47950113378657
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
@@ -2363,56 +2574,70 @@
         FILE "other_sounds\372133__magnus589__coffee-cup-table.wav"
       >
     >
-  >
-  <TRACK {91CB76AD-F104-4AC2-9BCD-E082D1622E43}
-    NAME meow
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 1 0 0
-    IPHASE 0
-    ISBUS 0 0
-    BUSCOMP 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FREEMODE 0
-    SEL 0
-    REC 1 -1 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {91CB76AD-F104-4AC2-9BCD-E082D1622E43}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <FXCHAIN
-      WNDRECT 112 60 655 408
-      SHOW 0
-      LASTSEL 0
-      DOCKED 0
-    >
     <ITEM
-      POSITION 16.38607709750567
+      POSITION 58.188662131519
       SNAPOFFS 0
-      LENGTH 14.93274376417234
+      LENGTH 7.47954648526076
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {4D6F913F-D864-4A38-AE1E-57D522CA2C9B}
-      IID 2
-      NAME 213889__counter-gamer__the-cat-s-meow.wav
+      IGUID {ABC0A170-6B2E-423C-8F1F-B4DE361CDC07}
+      IID 114
+      NAME 18730__lg__tea04.wav
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {83FA7846-7067-447D-B124-F12ED2E0FA65}
+      GUID {C0EA058F-F327-4A68-B80C-C51957818F84}
       <SOURCE WAVE
-        FILE "cat_sounds\213889__counter-gamer__the-cat-s-meow.wav"
+        FILE "other_sounds\18730__lg__tea04.wav"
+      >
+    >
+    <ITEM
+      POSITION 65.66820861677977
+      SNAPOFFS 0
+      LENGTH 3.83179138322023
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D1F9C1AA-46D7-4ABE-BBF0-0C3DBC62631B}
+      IID 111
+      NAME 433539__cupido-1__stir-tea-in-cup.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FC7174B9-8AFA-4D4D-A1DE-8CD0E8C1C8BF}
+      <SOURCE WAVE
+        FILE "other_sounds\433539__cupido-1__stir-tea-in-cup.wav"
+      >
+    >
+    <ITEM
+      POSITION 69.5
+      SNAPOFFS 0
+      LENGTH 6.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C276FF10-3991-4196-B904-22AB3C050BE3}
+      IID 113
+      NAME 408547__nomfundo-k__slurping.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FA09D8FE-CDE2-452D-9CDF-78A329BEE71D}
+      <SOURCE WAVE
+        FILE "other_sounds\408547__nomfundo-k__slurping.wav"
       >
     >
   >
