@@ -1,0 +1,2419 @@
+<REAPER_PROJECT 0.1 "5.961/x64" 1540563457
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 42.94721088435315
+  ZOOM 18.09988511555584 405 0
+  VZOOMEX 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN Cat_synphony
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 589824
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAA==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {4B3095FC-5BCA-47D6-BE02-77F184B940D0}
+    NAME grooming
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.86872391523433 -0.464 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 1 -1 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {4B3095FC-5BCA-47D6-BE02-77F184B940D0}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0.01 0
+      PT 2 0.01 0
+      PT 5.5 2 0
+      PT 23.5 2 0
+      PT 23.5 0.01 0 0 1
+      PT 25 0 0
+    >
+    <FXCHAIN
+      WNDRECT 112 46 716 610
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 2.5
+      SNAPOFFS 0
+      LENGTH 3.09523809523809
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {BD0C07CD-AF0A-402B-A065-E5C56324E3C0}
+      IID 5
+      NAME 341547__nakhas__cat-grooming.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E07C57DA-68F8-42A9-BFAE-78615218DC87}
+      <SOURCE WAVE
+        FILE "cat_sounds\341547__nakhas__cat-grooming.wav"
+      >
+    >
+    <ITEM
+      POSITION 7
+      SNAPOFFS 0
+      LENGTH 3.09523809523809
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1EAD825E-1989-4B96-BA9F-38CB34CE36A2}
+      IID 5
+      NAME 341547__nakhas__cat-grooming.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B8EAFDA0-75C1-481D-BD47-FC89DD50C0A3}
+      <SOURCE WAVE
+        FILE "cat_sounds\341547__nakhas__cat-grooming.wav"
+      >
+    >
+    <ITEM
+      POSITION 11.5
+      SNAPOFFS 0
+      LENGTH 3.09523809523809
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9F9B8B0B-009D-43E0-8D15-C20EE012CF68}
+      IID 5
+      NAME 341547__nakhas__cat-grooming.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9FC296B4-60A9-464F-ABD9-ACCC19853FB1}
+      <SOURCE WAVE
+        FILE "cat_sounds\341547__nakhas__cat-grooming.wav"
+      >
+    >
+    <ITEM
+      POSITION 16
+      SNAPOFFS 0
+      LENGTH 3.09523809523809
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {995F6D01-ACFA-480D-8DFF-92D132CC6F02}
+      IID 5
+      NAME 341547__nakhas__cat-grooming.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2C8B8AEF-FFD6-423A-984F-F503B20E2EEC}
+      <SOURCE WAVE
+        FILE "cat_sounds\341547__nakhas__cat-grooming.wav"
+      >
+    >
+    <ITEM
+      POSITION 20.5
+      SNAPOFFS 0
+      LENGTH 3.09523809523809
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {DFD8FC2B-3B8F-48E6-B14F-4613B522C9C4}
+      IID 5
+      NAME 341547__nakhas__cat-grooming.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FF6D0C43-5AAD-4EE4-A5E6-1B1C84E354BB}
+      <SOURCE WAVE
+        FILE "cat_sounds\341547__nakhas__cat-grooming.wav"
+      >
+    >
+    <ITEM
+      POSITION 25
+      SNAPOFFS 0
+      LENGTH 3.09523809523809
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B4A1A72F-F6EA-40FE-A712-214B5B6063E6}
+      IID 5
+      NAME 341547__nakhas__cat-grooming.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C4F43DA4-6226-4ED0-87BD-CCA5D6941E8E}
+      <SOURCE WAVE
+        FILE "cat_sounds\341547__nakhas__cat-grooming.wav"
+      >
+    >
+    <ITEM
+      POSITION 29.5
+      SNAPOFFS 0
+      LENGTH 3.09523809523809
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {030B6815-E7E2-4BC0-BF9E-0A3057801693}
+      IID 5
+      NAME 341547__nakhas__cat-grooming.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5652D35F-F5D3-4289-9E49-B35353B67812}
+      <SOURCE WAVE
+        FILE "cat_sounds\341547__nakhas__cat-grooming.wav"
+      >
+    >
+    <ITEM
+      POSITION 34
+      SNAPOFFS 0
+      LENGTH 3.09523809523809
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {DC930A67-C2DC-4B29-ADE5-766EC4C055D4}
+      IID 5
+      NAME 341547__nakhas__cat-grooming.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D194BB7C-97EE-4F77-B7E5-2663E3D20DBB}
+      <SOURCE WAVE
+        FILE "cat_sounds\341547__nakhas__cat-grooming.wav"
+      >
+    >
+    <ITEM
+      POSITION 38.5
+      SNAPOFFS 0
+      LENGTH 3.09523809523809
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {EC6E245A-D7D9-4529-9640-532C9DBC9887}
+      IID 5
+      NAME 341547__nakhas__cat-grooming.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4FD125EF-75D6-457E-9036-CC74F6ACA4B2}
+      <SOURCE WAVE
+        FILE "cat_sounds\341547__nakhas__cat-grooming.wav"
+      >
+    >
+    <ITEM
+      POSITION 43
+      SNAPOFFS 0
+      LENGTH 3.09523809523809
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6F2750CE-BA5C-4652-90C4-BABE68DC1873}
+      IID 5
+      NAME 341547__nakhas__cat-grooming.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {410D45BA-4672-45E9-86CF-3B65766CA666}
+      <SOURCE WAVE
+        FILE "cat_sounds\341547__nakhas__cat-grooming.wav"
+      >
+    >
+    <ITEM
+      POSITION 47.5
+      SNAPOFFS 0
+      LENGTH 3.09523809523809
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A014BA95-8FFF-4C2A-9A26-20631F6B5FA0}
+      IID 5
+      NAME 341547__nakhas__cat-grooming.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {74C12072-CC43-4CB0-8502-D37AC6406F5E}
+      <SOURCE WAVE
+        FILE "cat_sounds\341547__nakhas__cat-grooming.wav"
+      >
+    >
+    <ITEM
+      POSITION 52
+      SNAPOFFS 0
+      LENGTH 3.09523809523809
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4344E3CE-F9D6-4B5D-8E48-A61643AA326C}
+      IID 5
+      NAME 341547__nakhas__cat-grooming.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B315E935-E9CE-4C1B-A390-F6007C89A430}
+      <SOURCE WAVE
+        FILE "cat_sounds\341547__nakhas__cat-grooming.wav"
+      >
+    >
+    <ITEM
+      POSITION 56.5
+      SNAPOFFS 0
+      LENGTH 3.09523809523812
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {BE242926-F028-4169-9D3B-02DD10629233}
+      IID 5
+      NAME 341547__nakhas__cat-grooming.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {769032FA-6D5F-4ABD-818B-545FEF708BC6}
+      <SOURCE WAVE
+        FILE "cat_sounds\341547__nakhas__cat-grooming.wav"
+      >
+    >
+    <ITEM
+      POSITION 61
+      SNAPOFFS 0
+      LENGTH 3.09523809523812
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4E2CD570-3F9D-4102-BEFC-04374EB4DD1E}
+      IID 5
+      NAME 341547__nakhas__cat-grooming.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {69FCF384-1EAA-4C40-8959-27CCEC65DC33}
+      <SOURCE WAVE
+        FILE "cat_sounds\341547__nakhas__cat-grooming.wav"
+      >
+    >
+    <ITEM
+      POSITION 65.5
+      SNAPOFFS 0
+      LENGTH 3.09523809523809
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {60626661-88E0-4AED-B569-C86829114EEB}
+      IID 5
+      NAME 341547__nakhas__cat-grooming.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DAA6BBB6-5943-4792-BCB2-20320931D427}
+      <SOURCE WAVE
+        FILE "cat_sounds\341547__nakhas__cat-grooming.wav"
+      >
+    >
+    <ITEM
+      POSITION 70
+      SNAPOFFS 0
+      LENGTH 3.09523809523812
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2DB9F733-ACB4-4E93-BEA6-0215BA5F9436}
+      IID 5
+      NAME 341547__nakhas__cat-grooming.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {83D4FE60-F803-4967-9637-FBFFA83A236C}
+      <SOURCE WAVE
+        FILE "cat_sounds\341547__nakhas__cat-grooming.wav"
+      >
+    >
+    <ITEM
+      POSITION 74.5
+      SNAPOFFS 0
+      LENGTH 3.09523809523809
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FF4F6E04-84C2-4379-9859-2CB601300ED9}
+      IID 5
+      NAME 341547__nakhas__cat-grooming.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {13BF611C-505E-4D13-9C24-F292DE39F22E}
+      <SOURCE WAVE
+        FILE "cat_sounds\341547__nakhas__cat-grooming.wav"
+      >
+    >
+    <ITEM
+      POSITION 79
+      SNAPOFFS 0
+      LENGTH 3.09523809523809
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AD3B4D8F-F9B0-44D8-800E-8916D72E071A}
+      IID 5
+      NAME 341547__nakhas__cat-grooming.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {368F4DD3-E0D5-4C6A-9475-7688C882DFD4}
+      <SOURCE WAVE
+        FILE "cat_sounds\341547__nakhas__cat-grooming.wav"
+      >
+    >
+    <ITEM
+      POSITION 83.5
+      SNAPOFFS 0
+      LENGTH 3.09523809523809
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B85A663E-F3B1-46AC-8A2A-9735CEC1ACE8}
+      IID 5
+      NAME 341547__nakhas__cat-grooming.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D37A2EF2-3E0E-4C47-BA9A-AFA351DD7B71}
+      <SOURCE WAVE
+        FILE "cat_sounds\341547__nakhas__cat-grooming.wav"
+      >
+    >
+    <ITEM
+      POSITION 88
+      SNAPOFFS 0
+      LENGTH 3.09523809523809
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8FB19640-37E5-42EA-9947-F06311F5D216}
+      IID 5
+      NAME 341547__nakhas__cat-grooming.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DF0DB23D-41C9-404F-8E1F-D5F1640C18B7}
+      <SOURCE WAVE
+        FILE "cat_sounds\341547__nakhas__cat-grooming.wav"
+      >
+    >
+    <ITEM
+      POSITION 92.5
+      SNAPOFFS 0
+      LENGTH 3.09523809523809
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0FD288D6-B993-4ACF-B634-DC17461F24F0}
+      IID 5
+      NAME 341547__nakhas__cat-grooming.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DC6890D0-0171-4BFD-9DC6-A7616DC1EFC3}
+      <SOURCE WAVE
+        FILE "cat_sounds\341547__nakhas__cat-grooming.wav"
+      >
+    >
+    <ITEM
+      POSITION 97
+      SNAPOFFS 0
+      LENGTH 3.09523809523812
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {88A0F0A2-C82B-41C5-A338-93C6B85FFEE7}
+      IID 5
+      NAME 341547__nakhas__cat-grooming.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {38D02215-B910-4020-8C33-2034F5221DC6}
+      <SOURCE WAVE
+        FILE "cat_sounds\341547__nakhas__cat-grooming.wav"
+      >
+    >
+    <ITEM
+      POSITION 101.5
+      SNAPOFFS 0
+      LENGTH 3.09523809523807
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {47EA7A22-5736-4284-B236-2417FCBABBB4}
+      IID 5
+      NAME 341547__nakhas__cat-grooming.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D42C68E6-F62F-4650-A18E-039799BEF1A9}
+      <SOURCE WAVE
+        FILE "cat_sounds\341547__nakhas__cat-grooming.wav"
+      >
+    >
+    <ITEM
+      POSITION 106
+      SNAPOFFS 0
+      LENGTH 3.09523809523807
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E768D674-DAF1-4198-B288-990E9EC806A2}
+      IID 5
+      NAME 341547__nakhas__cat-grooming.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {50D00F0C-12FD-43FC-8A08-11743BB53B12}
+      <SOURCE WAVE
+        FILE "cat_sounds\341547__nakhas__cat-grooming.wav"
+      >
+    >
+  >
+  <TRACK {40A4B84A-5774-4FFD-985C-901788308A5B}
+    NAME smacking
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 -0.456 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 2 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 1 -1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {40A4B84A-5774-4FFD-985C-901788308A5B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 2 0 0 1
+      PT 24 2 0
+      PT 24 0 0
+      PT 25 0.01 0
+    >
+    <FXCHAIN
+      WNDRECT 112 60 655 408
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 5
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B5334947-358C-4933-B773-A79749EAF398}
+      IID 40
+      NAME 348848__mpv2__mouth-smacking-sounds.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {37F7AE6A-E6E7-49E8-AB44-5AEAAA1CB5D9}
+      <SOURCE WAVE
+        FILE "cat_sounds\348848__mpv2__mouth-smacking-sounds.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.5
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1537968F-217E-49B3-9E63-B4532C9570DF}
+      IID 40
+      NAME 348848__mpv2__mouth-smacking-sounds.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {912AF968-060B-4890-A2F0-774846737EC5}
+      <SOURCE WAVE
+        FILE "cat_sounds\348848__mpv2__mouth-smacking-sounds.wav"
+      >
+    >
+    <ITEM
+      POSITION 14
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CCF2E68C-12D4-4943-8DD3-D4D28A03F6AA}
+      IID 40
+      NAME 348848__mpv2__mouth-smacking-sounds.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FAAAE99D-5E44-4607-8B7C-59FA7C4D300D}
+      <SOURCE WAVE
+        FILE "cat_sounds\348848__mpv2__mouth-smacking-sounds.wav"
+      >
+    >
+    <ITEM
+      POSITION 18.5
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B080C327-4F79-4E17-B4B1-973BCD2B0B29}
+      IID 40
+      NAME 348848__mpv2__mouth-smacking-sounds.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DB02FF74-D5DA-4D56-A055-943DFAC8514C}
+      <SOURCE WAVE
+        FILE "cat_sounds\348848__mpv2__mouth-smacking-sounds.wav"
+      >
+    >
+    <ITEM
+      POSITION 23
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9F5FFE22-7B2C-4FD4-BFE1-B6796CD476B3}
+      IID 40
+      NAME 348848__mpv2__mouth-smacking-sounds.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {55A04935-3A6D-445C-820B-B4EFB49AD56B}
+      <SOURCE WAVE
+        FILE "cat_sounds\348848__mpv2__mouth-smacking-sounds.wav"
+      >
+    >
+    <ITEM
+      POSITION 27.5
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8341F80F-4E98-4A71-89C4-6C9A5498B774}
+      IID 40
+      NAME 348848__mpv2__mouth-smacking-sounds.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B29015B9-33FF-4F86-B4B3-9A0030C5263E}
+      <SOURCE WAVE
+        FILE "cat_sounds\348848__mpv2__mouth-smacking-sounds.wav"
+      >
+    >
+    <ITEM
+      POSITION 32
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {20F70DE6-8271-4336-89AA-3337B7B17480}
+      IID 40
+      NAME 348848__mpv2__mouth-smacking-sounds.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A85469A0-EB78-4C38-A62A-D0C0B3188927}
+      <SOURCE WAVE
+        FILE "cat_sounds\348848__mpv2__mouth-smacking-sounds.wav"
+      >
+    >
+    <ITEM
+      POSITION 36.5
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F22438A2-9474-474B-8233-AB5A50104231}
+      IID 40
+      NAME 348848__mpv2__mouth-smacking-sounds.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2BBD63B0-EAC2-478B-868F-82C286E3AAE9}
+      <SOURCE WAVE
+        FILE "cat_sounds\348848__mpv2__mouth-smacking-sounds.wav"
+      >
+    >
+    <ITEM
+      POSITION 41
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {914233C8-388C-480A-B26F-9CEBA1CB4861}
+      IID 40
+      NAME 348848__mpv2__mouth-smacking-sounds.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C71AA167-8141-424E-8A41-8C9BB37316E1}
+      <SOURCE WAVE
+        FILE "cat_sounds\348848__mpv2__mouth-smacking-sounds.wav"
+      >
+    >
+    <ITEM
+      POSITION 45.5
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3EF913B5-FF99-4DAE-980D-687612AF308C}
+      IID 40
+      NAME 348848__mpv2__mouth-smacking-sounds.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8936973E-457C-40A4-A0D9-AFA965D7A955}
+      <SOURCE WAVE
+        FILE "cat_sounds\348848__mpv2__mouth-smacking-sounds.wav"
+      >
+    >
+    <ITEM
+      POSITION 50
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F4742719-5973-459B-BC90-A57086AE9CFD}
+      IID 40
+      NAME 348848__mpv2__mouth-smacking-sounds.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8D76596D-5288-4513-A885-98676EAD61AC}
+      <SOURCE WAVE
+        FILE "cat_sounds\348848__mpv2__mouth-smacking-sounds.wav"
+      >
+    >
+    <ITEM
+      POSITION 54.5
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {179538B4-D1CC-417C-8AE3-030F38D57099}
+      IID 40
+      NAME 348848__mpv2__mouth-smacking-sounds.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {213E8C7B-62EF-4CC5-A669-E4A4088E250A}
+      <SOURCE WAVE
+        FILE "cat_sounds\348848__mpv2__mouth-smacking-sounds.wav"
+      >
+    >
+    <ITEM
+      POSITION 59
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {67D66341-8F65-4A7E-A3CE-7836A3546A53}
+      IID 40
+      NAME 348848__mpv2__mouth-smacking-sounds.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {91944D09-1FA4-49CE-9B64-662EE36CA928}
+      <SOURCE WAVE
+        FILE "cat_sounds\348848__mpv2__mouth-smacking-sounds.wav"
+      >
+    >
+    <ITEM
+      POSITION 63.5
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F3455838-616E-498D-9871-70A624FCFFE5}
+      IID 40
+      NAME 348848__mpv2__mouth-smacking-sounds.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2776BB68-91FE-4C70-AA52-4BABD41261A3}
+      <SOURCE WAVE
+        FILE "cat_sounds\348848__mpv2__mouth-smacking-sounds.wav"
+      >
+    >
+    <ITEM
+      POSITION 68
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {63052B4B-1A48-4CFA-9BD1-587EB61A3E21}
+      IID 40
+      NAME 348848__mpv2__mouth-smacking-sounds.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {395FE695-E332-43CD-A418-38C4791FA00B}
+      <SOURCE WAVE
+        FILE "cat_sounds\348848__mpv2__mouth-smacking-sounds.wav"
+      >
+    >
+    <ITEM
+      POSITION 72.5
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {86101631-B9E9-46ED-8583-530697F015ED}
+      IID 40
+      NAME 348848__mpv2__mouth-smacking-sounds.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F54E18EA-3240-4942-A445-76C5296A7D31}
+      <SOURCE WAVE
+        FILE "cat_sounds\348848__mpv2__mouth-smacking-sounds.wav"
+      >
+    >
+    <ITEM
+      POSITION 77
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5C597E91-6E66-42B7-9624-1DB6F7013A18}
+      IID 40
+      NAME 348848__mpv2__mouth-smacking-sounds.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E0D2BEBA-0B6E-42D9-8550-AE03F833974B}
+      <SOURCE WAVE
+        FILE "cat_sounds\348848__mpv2__mouth-smacking-sounds.wav"
+      >
+    >
+    <ITEM
+      POSITION 81.5
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {BA90D68A-9B89-4D7F-87C5-7CE4A655F209}
+      IID 40
+      NAME 348848__mpv2__mouth-smacking-sounds.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {47F28C94-AEF3-4768-A183-C1E28937358B}
+      <SOURCE WAVE
+        FILE "cat_sounds\348848__mpv2__mouth-smacking-sounds.wav"
+      >
+    >
+    <ITEM
+      POSITION 85.5
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {211E9FD2-2B30-4C88-A55E-068E27338321}
+      IID 40
+      NAME 348848__mpv2__mouth-smacking-sounds.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {764E642E-47D1-4B9B-A0AD-5EE99A083ACE}
+      <SOURCE WAVE
+        FILE "cat_sounds\348848__mpv2__mouth-smacking-sounds.wav"
+      >
+    >
+    <ITEM
+      POSITION 90
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C60B407F-2F27-450C-B946-9E3EDA412025}
+      IID 40
+      NAME 348848__mpv2__mouth-smacking-sounds.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {82248547-AFE6-4D67-BD8A-446D7DFB71C0}
+      <SOURCE WAVE
+        FILE "cat_sounds\348848__mpv2__mouth-smacking-sounds.wav"
+      >
+    >
+    <ITEM
+      POSITION 94.5
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {29E7691F-2D2C-4273-9F07-C997FADBB23D}
+      IID 40
+      NAME 348848__mpv2__mouth-smacking-sounds.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2E7C7024-7338-40E1-ADC5-87FE16B59DF1}
+      <SOURCE WAVE
+        FILE "cat_sounds\348848__mpv2__mouth-smacking-sounds.wav"
+      >
+    >
+    <ITEM
+      POSITION 99
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5B5CCB3E-2AB9-472D-8331-4105192FC9FD}
+      IID 40
+      NAME 348848__mpv2__mouth-smacking-sounds.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {28999DDC-C7B0-476F-854C-2F8BAE2C0CB5}
+      <SOURCE WAVE
+        FILE "cat_sounds\348848__mpv2__mouth-smacking-sounds.wav"
+      >
+    >
+    <ITEM
+      POSITION 103.5
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {009C4BA2-3715-4100-8997-A59BDCCE2990}
+      IID 40
+      NAME 348848__mpv2__mouth-smacking-sounds.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {97883C37-681E-4ECF-BB0E-9B84F2F66131}
+      <SOURCE WAVE
+        FILE "cat_sounds\348848__mpv2__mouth-smacking-sounds.wav"
+      >
+    >
+    <ITEM
+      POSITION 108
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {040AA671-439E-4D64-A82C-88649B17938D}
+      IID 40
+      NAME 348848__mpv2__mouth-smacking-sounds.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6B8F9081-2AEF-41AC-A398-42077D0DEF7A}
+      <SOURCE WAVE
+        FILE "cat_sounds\348848__mpv2__mouth-smacking-sounds.wav"
+      >
+    >
+  >
+  <TRACK {F3DD41A3-0403-4187-A53E-8A1FF3F44BEB}
+    NAME screaming
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 -0.456 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 1 -1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F3DD41A3-0403-4187-A53E-8A1FF3F44BEB}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 2 0
+      PT 24 2 0
+      PT 24 0 0 0 1
+    >
+    <ITEM
+      POSITION 10.5
+      SNAPOFFS 0
+      LENGTH 1.79083900226757
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {240FACE6-AD83-48B6-8836-3D9AC32516BD}
+      IID 6
+      NAME 415209__inspectorj__cat-screaming-a.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {311F57AF-10BF-4E3F-843C-BF4214F44AF5}
+      <SOURCE WAVE
+        FILE "cat_sounds\415209__inspectorj__cat-screaming-a.wav"
+      >
+    >
+    <ITEM
+      POSITION 15
+      SNAPOFFS 0
+      LENGTH 1.79083900226757
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4DE856C9-3895-439B-8B8B-9473EEB77268}
+      IID 6
+      NAME 415209__inspectorj__cat-screaming-a.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1A753661-1EB7-47FF-AEE4-68FE927D2C37}
+      <SOURCE WAVE
+        FILE "cat_sounds\415209__inspectorj__cat-screaming-a.wav"
+      >
+    >
+    <ITEM
+      POSITION 19.5
+      SNAPOFFS 0
+      LENGTH 1.79083900226757
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6C8C79B8-03A2-4D23-B1E8-243AFBA30CAB}
+      IID 6
+      NAME 415209__inspectorj__cat-screaming-a.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {23A70A56-6600-49E3-A526-99E99078E093}
+      <SOURCE WAVE
+        FILE "cat_sounds\415209__inspectorj__cat-screaming-a.wav"
+      >
+    >
+    <ITEM
+      POSITION 24
+      SNAPOFFS 0
+      LENGTH 1.79083900226757
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3CED9AE3-569A-4D5A-BB6C-9FDA9D27530E}
+      IID 6
+      NAME 415209__inspectorj__cat-screaming-a.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B7064E86-0B16-45CE-AFBA-B152B6A9F458}
+      <SOURCE WAVE
+        FILE "cat_sounds\415209__inspectorj__cat-screaming-a.wav"
+      >
+    >
+    <ITEM
+      POSITION 28.5
+      SNAPOFFS 0
+      LENGTH 1.79083900226757
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {388FB7AA-CC00-4AE1-A556-9C17570BBB8B}
+      IID 6
+      NAME 415209__inspectorj__cat-screaming-a.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EF49C66A-0A65-4F1C-B570-B67C7C9E62F6}
+      <SOURCE WAVE
+        FILE "cat_sounds\415209__inspectorj__cat-screaming-a.wav"
+      >
+    >
+    <ITEM
+      POSITION 33
+      SNAPOFFS 0
+      LENGTH 1.79083900226757
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CF0B4D7A-29B4-4D0C-8C98-E6F5A313FAD0}
+      IID 6
+      NAME 415209__inspectorj__cat-screaming-a.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A6B0C08D-F739-4214-92B2-B11BF7E2C5B7}
+      <SOURCE WAVE
+        FILE "cat_sounds\415209__inspectorj__cat-screaming-a.wav"
+      >
+    >
+    <ITEM
+      POSITION 37.5
+      SNAPOFFS 0
+      LENGTH 1.79083900226757
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C2476A61-493B-4006-B3A5-EE10A5D52766}
+      IID 6
+      NAME 415209__inspectorj__cat-screaming-a.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B45F3D08-3685-4BD1-A6B2-7A55BFF7FE90}
+      <SOURCE WAVE
+        FILE "cat_sounds\415209__inspectorj__cat-screaming-a.wav"
+      >
+    >
+    <ITEM
+      POSITION 42
+      SNAPOFFS 0
+      LENGTH 1.79083900226757
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {80D22998-C19C-4222-9ECE-69676B538E48}
+      IID 6
+      NAME 415209__inspectorj__cat-screaming-a.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8F98CF56-2806-4677-8BE0-E765CBDB0B08}
+      <SOURCE WAVE
+        FILE "cat_sounds\415209__inspectorj__cat-screaming-a.wav"
+      >
+    >
+    <ITEM
+      POSITION 46.5
+      SNAPOFFS 0
+      LENGTH 1.79083900226757
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {55D7745C-A23A-404A-84AD-128A5DBB309D}
+      IID 6
+      NAME 415209__inspectorj__cat-screaming-a.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {77ACA41F-8451-46AA-AEF8-CB8F499DA577}
+      <SOURCE WAVE
+        FILE "cat_sounds\415209__inspectorj__cat-screaming-a.wav"
+      >
+    >
+    <ITEM
+      POSITION 51
+      SNAPOFFS 0
+      LENGTH 1.79083900226756
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D537DB8E-6B9D-412C-9DCE-2AA04A454211}
+      IID 6
+      NAME 415209__inspectorj__cat-screaming-a.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0715A3A0-3C0C-4725-B153-2F522E3F5CCF}
+      <SOURCE WAVE
+        FILE "cat_sounds\415209__inspectorj__cat-screaming-a.wav"
+      >
+    >
+    <ITEM
+      POSITION 55.5
+      SNAPOFFS 0
+      LENGTH 1.79083900226756
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7F35DECD-3355-410D-B82D-9CC23B3001C3}
+      IID 6
+      NAME 415209__inspectorj__cat-screaming-a.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B2CEC344-DDA6-4CE4-BC72-829184510C1B}
+      <SOURCE WAVE
+        FILE "cat_sounds\415209__inspectorj__cat-screaming-a.wav"
+      >
+    >
+    <ITEM
+      POSITION 60
+      SNAPOFFS 0
+      LENGTH 1.79083900226756
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E056BB1C-4FA2-4429-B6A0-490DB7535E3E}
+      IID 6
+      NAME 415209__inspectorj__cat-screaming-a.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {52EE7418-4574-4867-8CCE-585761A891CF}
+      <SOURCE WAVE
+        FILE "cat_sounds\415209__inspectorj__cat-screaming-a.wav"
+      >
+    >
+    <ITEM
+      POSITION 64.5
+      SNAPOFFS 0
+      LENGTH 1.79083900226757
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {670C90AE-0CA2-4C65-941F-069198D6E443}
+      IID 6
+      NAME 415209__inspectorj__cat-screaming-a.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {98BF4E10-8301-401A-B27F-8CDA01CD09C4}
+      <SOURCE WAVE
+        FILE "cat_sounds\415209__inspectorj__cat-screaming-a.wav"
+      >
+    >
+    <ITEM
+      POSITION 69
+      SNAPOFFS 0
+      LENGTH 1.79083900226757
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7FE8C1DF-453F-44F9-874D-2C9A972B76A9}
+      IID 6
+      NAME 415209__inspectorj__cat-screaming-a.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {61F4F29C-073E-4BAE-B6A2-852D4FBB722F}
+      <SOURCE WAVE
+        FILE "cat_sounds\415209__inspectorj__cat-screaming-a.wav"
+      >
+    >
+    <ITEM
+      POSITION 73.5
+      SNAPOFFS 0
+      LENGTH 1.79083900226757
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2D1400DC-2C84-4648-88F8-CEFE2107A5CC}
+      IID 6
+      NAME 415209__inspectorj__cat-screaming-a.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7BFE88EE-E745-4DDF-AC1A-9CE691D627A9}
+      <SOURCE WAVE
+        FILE "cat_sounds\415209__inspectorj__cat-screaming-a.wav"
+      >
+    >
+    <ITEM
+      POSITION 78
+      SNAPOFFS 0
+      LENGTH 1.79083900226757
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {ED4640FF-F39E-4A39-A50B-8233B036963F}
+      IID 6
+      NAME 415209__inspectorj__cat-screaming-a.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {862B930A-3AF8-4868-B94B-DC978C01EA86}
+      <SOURCE WAVE
+        FILE "cat_sounds\415209__inspectorj__cat-screaming-a.wav"
+      >
+    >
+    <ITEM
+      POSITION 82.5
+      SNAPOFFS 0
+      LENGTH 1.79083900226757
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {54E6A56B-D622-4877-91FA-0D7C7BD1DC79}
+      IID 6
+      NAME 415209__inspectorj__cat-screaming-a.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A28C9E34-EAB8-489E-BD90-821C04E5BE6A}
+      <SOURCE WAVE
+        FILE "cat_sounds\415209__inspectorj__cat-screaming-a.wav"
+      >
+    >
+    <ITEM
+      POSITION 86.5
+      SNAPOFFS 0
+      LENGTH 1.79083900226757
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B6E05EF5-E75D-4CB6-B609-864C3B7AF8FB}
+      IID 6
+      NAME 415209__inspectorj__cat-screaming-a.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DEBC9F51-7234-457B-88E8-1C61419AA19B}
+      <SOURCE WAVE
+        FILE "cat_sounds\415209__inspectorj__cat-screaming-a.wav"
+      >
+    >
+    <ITEM
+      POSITION 91
+      SNAPOFFS 0
+      LENGTH 1.79083900226757
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {89F2EE16-73A2-4930-B7B7-E1360851BDDD}
+      IID 6
+      NAME 415209__inspectorj__cat-screaming-a.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6F46DA07-7D59-4C9F-9EE1-482D700813D3}
+      <SOURCE WAVE
+        FILE "cat_sounds\415209__inspectorj__cat-screaming-a.wav"
+      >
+    >
+    <ITEM
+      POSITION 95.5
+      SNAPOFFS 0
+      LENGTH 1.79083900226757
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D54879B5-49C6-4C96-9C98-2879A8FD579D}
+      IID 6
+      NAME 415209__inspectorj__cat-screaming-a.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {667622DE-D0EE-49C0-BC1C-D8A2ED22F325}
+      <SOURCE WAVE
+        FILE "cat_sounds\415209__inspectorj__cat-screaming-a.wav"
+      >
+    >
+    <ITEM
+      POSITION 100
+      SNAPOFFS 0
+      LENGTH 1.79083900226757
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A5B8AB5B-3473-4DB7-83F7-6C2077BB91FA}
+      IID 6
+      NAME 415209__inspectorj__cat-screaming-a.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {33BFD17A-8BE9-4B56-B338-1EB51D102404}
+      <SOURCE WAVE
+        FILE "cat_sounds\415209__inspectorj__cat-screaming-a.wav"
+      >
+    >
+    <ITEM
+      POSITION 104.5
+      SNAPOFFS 0
+      LENGTH 1.79083900226757
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4A298996-DFCF-49CF-A86A-579F8167272E}
+      IID 6
+      NAME 415209__inspectorj__cat-screaming-a.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {96933BD0-86F9-477F-8B1C-540C51D2A62D}
+      <SOURCE WAVE
+        FILE "cat_sounds\415209__inspectorj__cat-screaming-a.wav"
+      >
+    >
+    <ITEM
+      POSITION 109.09523809523807
+      SNAPOFFS 0
+      LENGTH 1.79083900226757
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E03BE95B-DF47-49A3-B7A6-A6CA1A6FFC10}
+      IID 6
+      NAME 415209__inspectorj__cat-screaming-a.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6FE6BECF-D919-4EA9-91AA-334D74819E74}
+      <SOURCE WAVE
+        FILE "cat_sounds\415209__inspectorj__cat-screaming-a.wav"
+      >
+    >
+  >
+  <TRACK {2EC0311C-59F4-4F40-B408-91EFA491E28B}
+    NAME purr
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0.6 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 1 -1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2EC0311C-59F4-4F40-B408-91EFA491E28B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      PT 0 2 0
+      PT 24 1.99 0
+      PT 24 0.01 0
+      PT 66 0.01 0
+    >
+    <ITEM
+      POSITION 16.38607709750567
+      SNAPOFFS 0
+      LENGTH 3.11392290249433
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {49578BD7-2B3A-4B1D-AF3D-8A75E026DE7F}
+      IID 1
+      NAME 260881__trautwein__cat-purr.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AF466188-CCA8-48ED-88A0-75459CAD18A6}
+      <SOURCE WAVE
+        FILE "cat_sounds\260881__trautwein__cat-purr.wav"
+      >
+    >
+    <ITEM
+      POSITION 20.5
+      SNAPOFFS 0
+      LENGTH 3.11392290249433
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {038829DC-D351-41B5-804D-1F5534C59E20}
+      IID 1
+      NAME 260881__trautwein__cat-purr.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BA0AB4CA-3E2A-4DE0-9E04-87FBD4103707}
+      <SOURCE WAVE
+        FILE "cat_sounds\260881__trautwein__cat-purr.wav"
+      >
+    >
+    <ITEM
+      POSITION 25
+      SNAPOFFS 0
+      LENGTH 3.11392290249433
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4E54B274-DE9D-42BB-BA4B-9A5F2986D16A}
+      IID 1
+      NAME 260881__trautwein__cat-purr.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0B1571C4-5DB9-4568-B762-76D5FABEDD38}
+      <SOURCE WAVE
+        FILE "cat_sounds\260881__trautwein__cat-purr.wav"
+      >
+    >
+    <ITEM
+      POSITION 29.5
+      SNAPOFFS 0
+      LENGTH 3.11392290249433
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {63F04B82-0922-4DE4-8D74-5A40C132ED9C}
+      IID 1
+      NAME 260881__trautwein__cat-purr.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DAFA8A5A-4BE8-4394-A7D2-8EFF7877F46E}
+      <SOURCE WAVE
+        FILE "cat_sounds\260881__trautwein__cat-purr.wav"
+      >
+    >
+    <ITEM
+      POSITION 33.61392290249933
+      SNAPOFFS 0
+      LENGTH 3.11392290249432
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1121D458-EEDA-4767-90AE-F4D9DE316BB2}
+      IID 1
+      NAME 260881__trautwein__cat-purr.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E66CDB16-56F0-41EE-B953-42E6F076046C}
+      <SOURCE WAVE
+        FILE "cat_sounds\260881__trautwein__cat-purr.wav"
+      >
+    >
+    <ITEM
+      POSITION 38.11392290249933
+      SNAPOFFS 0
+      LENGTH 3.11392290249433
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {525E8E7B-9C65-45B1-8CF8-99B2575DFB42}
+      IID 1
+      NAME 260881__trautwein__cat-purr.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CF852A53-7938-4FAA-B815-C324405774EE}
+      <SOURCE WAVE
+        FILE "cat_sounds\260881__trautwein__cat-purr.wav"
+      >
+    >
+    <ITEM
+      POSITION 43
+      SNAPOFFS 0
+      LENGTH 3.11392290249433
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C5A3719E-46BE-430A-AD2B-40C6619A7D1F}
+      IID 1
+      NAME 260881__trautwein__cat-purr.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {281AD758-2B07-4D9D-8F2B-7E04812907DE}
+      <SOURCE WAVE
+        FILE "cat_sounds\260881__trautwein__cat-purr.wav"
+      >
+    >
+    <ITEM
+      POSITION 47.11392290249933
+      SNAPOFFS 0
+      LENGTH 3.11392290249433
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {75A8E9CC-17C3-41E2-8655-FDE43C8D68F7}
+      IID 1
+      NAME 260881__trautwein__cat-purr.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A1CA24B9-F034-46D2-8DB0-DB0610A9511B}
+      <SOURCE WAVE
+        FILE "cat_sounds\260881__trautwein__cat-purr.wav"
+      >
+    >
+    <ITEM
+      POSITION 51.61392290249933
+      SNAPOFFS 0
+      LENGTH 3.11392290249433
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {40CE9FA9-6758-4102-BBDD-FD518FBC0E92}
+      IID 1
+      NAME 260881__trautwein__cat-purr.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D0992EF9-0110-4736-9B09-116046F46ACE}
+      <SOURCE WAVE
+        FILE "cat_sounds\260881__trautwein__cat-purr.wav"
+      >
+    >
+  >
+  <TRACK {E6D2846A-CE4D-46F0-8064-19B9B85B8991}
+    NAME bell
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E6D2846A-CE4D-46F0-8064-19B9B85B8991}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 23.61392290249433
+      SNAPOFFS 0
+      LENGTH 2.86770975056689
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E1D2AAAB-4CFC-46A7-B58B-30A72305C574}
+      IID 97
+      NAME 182879__landub__door-bell-rings.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.40476190476191
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9FC7BF08-8C14-4D22-B9BA-D224FEE3FDFA}
+      <SOURCE WAVE
+        FILE "other_sounds\182879__landub__door-bell-rings.wav"
+      >
+    >
+  >
+  <TRACK {B2FC5678-EDD7-42FF-96AE-2E815FF1DF13}
+    NAME "door_open_ close"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 3.98107170553497 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B2FC5678-EDD7-42FF-96AE-2E815FF1DF13}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 32
+      SNAPOFFS 0
+      LENGTH 1.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {11DD54C7-DA1D-409E-8E08-C4E2E85EC61A}
+      IID 98
+      NAME 344360__amholma__door-open-close.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A25D8CF0-D330-471E-97FE-258622309A34}
+      <SOURCE WAVE
+        FILE "other_sounds\344360__amholma__door-open-close.wav"
+      >
+    >
+    <ITEM
+      POSITION 36.5
+      SNAPOFFS 0
+      LENGTH 2.51714285714286
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0AC1055C-B13C-4BFC-A8F1-03145359330F}
+      IID 98
+      NAME 344360__amholma__door-open-close.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {75367FFE-7DF4-4397-9CDE-023AE10CEA32}
+      <SOURCE WAVE
+        FILE "other_sounds\344360__amholma__door-open-close.wav"
+      >
+    >
+  >
+  <TRACK {5179B20F-2E65-4584-825B-2DE6BABB1F8C}
+    NAME footsteps
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5179B20F-2E65-4584-825B-2DE6BABB1F8C}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 1 0
+      PT 25 0.34 0
+      PT 30.9995 1.5399 0
+      PT 34.9995 1.66878555 0
+      PT 42 0.28 0 0 1
+    >
+    <ITEM
+      POSITION 25.79083900226757
+      SNAPOFFS 0
+      LENGTH 6.20916099773243
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E45B5085-31D1-4D9B-9365-28C4BD75AF1B}
+      IID 101
+      NAME 404799__svyato__footsteps-wood-indoor-soft.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FF927FA1-ACF1-4117-A19E-03ECBFB4DA6F}
+      <SOURCE WAVE
+        FILE "other_sounds\404799__svyato__footsteps-wood-indoor-soft.wav"
+      >
+    >
+    <ITEM
+      POSITION 35
+      SNAPOFFS 0
+      LENGTH 6.20916099773243
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2C68927A-C2FB-483E-8DA4-FEC1E0270B44}
+      IID 101
+      NAME 404799__svyato__footsteps-wood-indoor-soft.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1A1F8771-7D4B-4333-82BC-972A64FA2F83}
+      <SOURCE WAVE
+        FILE "other_sounds\404799__svyato__footsteps-wood-indoor-soft.wav"
+      >
+    >
+  >
+  <TRACK {9DB5EBE5-F5F8-4639-B3C3-C399420750E6}
+    NAME footsteps2
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9DB5EBE5-F5F8-4639-B3C3-C399420750E6}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 1 0
+      PT 25 0.34 0
+      PT 30.9995 1.5399 0
+      PT 34.9995 1.66878555 0
+      PT 35.4995 1.56959367 0
+      PT 42 0.34 0 0 1
+    >
+    <ITEM
+      POSITION 35.5
+      SNAPOFFS 0
+      LENGTH 6.20916099773243
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {804133CB-913A-4A4C-B48E-F879EAFC95B9}
+      IID 101
+      NAME 404799__svyato__footsteps-wood-indoor-soft.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3F0FC9F8-719E-4C1C-844B-C0D2E5658DB9}
+      <SOURCE WAVE
+        FILE "other_sounds\404799__svyato__footsteps-wood-indoor-soft.wav"
+      >
+    >
+  >
+  <TRACK {35E8A05F-5AE7-4A81-BF9E-E1F883E8CDAF}
+    NAME hello
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {35E8A05F-5AE7-4A81-BF9E-E1F883E8CDAF}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 33.61392290249933
+      SNAPOFFS 0
+      LENGTH 0.38607709750067
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0534322B-312B-4A64-AB27-790926C8B428}
+      IID 104
+      NAME 37807__mw-1984__hello.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D05D716F-7CAE-4546-8912-E5E653FD9745}
+      <SOURCE MP3
+        FILE "other_sounds\37807__mw-1984__hello.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 34
+      SNAPOFFS 0
+      LENGTH 1.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CE6648C5-6A68-4AC2-B2E7-AF4169CB4E29}
+      IID 103
+      NAME 365613__pyro13djt__hellofriend.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 27.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B7B27901-DFF9-4865-889D-A2353F6367C3}
+      <SOURCE WAVE
+        FILE "other_sounds\365613__pyro13djt__hellofriend.wav"
+      >
+    >
+  >
+  <TRACK {94147EFE-5561-44AF-9258-FC14F3300372}
+    NAME table_sounds
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {94147EFE-5561-44AF-9258-FC14F3300372}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 20.21347916666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {13B08CC2-F048-4C16-BD9E-2AAC9E764F14}
+      IID 96
+      NAME 372133__magnus589__coffee-cup-table.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1D82EC47-CFC8-48D8-BB9D-EAB04844EE6F}
+      <SOURCE WAVE
+        FILE "other_sounds\372133__magnus589__coffee-cup-table.wav"
+      >
+    >
+  >
+  <TRACK {91CB76AD-F104-4AC2-9BCD-E082D1622E43}
+    NAME meow
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 1 -1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {91CB76AD-F104-4AC2-9BCD-E082D1622E43}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 112 60 655 408
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 16.38607709750567
+      SNAPOFFS 0
+      LENGTH 14.93274376417234
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4D6F913F-D864-4A38-AE1E-57D522CA2C9B}
+      IID 2
+      NAME 213889__counter-gamer__the-cat-s-meow.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {83FA7846-7067-447D-B124-F12ED2E0FA65}
+      <SOURCE WAVE
+        FILE "cat_sounds\213889__counter-gamer__the-cat-s-meow.wav"
+      >
+    >
+  >
+>
