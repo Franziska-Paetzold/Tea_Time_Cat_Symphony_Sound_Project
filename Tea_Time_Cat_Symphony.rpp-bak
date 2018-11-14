@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "5.961/x64" 1540566340
+<REAPER_PROJECT 0.1 "5.961/x64" 1542180246
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,13 +14,13 @@
   TIMEMODE 1 5 -1 30 0
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 95
-  ZOOM 13.26000598650063 0 0
-  VZOOMEX 0
+  CURSOR 65
+  ZOOM 12.95946562857817 248 0
+  VZOOMEX 12
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
-  LOOP 0
+  LOOP 1
   LOOPGRAN 0 4
   RECORD_PATH "" ""
   <RECORD_CFG
@@ -56,8 +56,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 91 47
-  SELECTION2 91 47
+  SELECTION 27 78
+  SELECTION2 27 78
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -89,7 +89,7 @@
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 0.86402374990307 -0.464 -1 -1 1
+    VOLPAN 0.33613221313416 -0.464 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     ISBUS 0 0
@@ -115,14 +115,47 @@
       DEFSHAPE 0 -1 -1
       PT 0 0.01 0
       PT 2 0.01 0
-      PT 5.5 2 0
-      PT 23.5 2 0
-      PT 23.5 0.01 0
-      PT 25 0 0
-      PT 42 0 0
-      PT 46 1.93 0
-      PT 96 1.92 0
-      PT 96 0 0 0 1
+      PT 3.9995 1.14685857 0
+      PT 4 2 0
+      PT 11.5 2 0
+      PT 11.5 0.01 0
+      PT 11.5952381 0.00936508 0
+      PT 11.5957381 2 0
+      PT 12.9995 2 0
+      PT 13 0 0
+      PT 16.0952381 0 0
+      PT 16.0957381 2 0
+      PT 17.4995 2 0
+      PT 17.5 0 0
+      PT 20.5952381 0 0
+      PT 20.5957381 1.93812645 0
+      PT 21.9995 1.03561765 0
+      PT 22 0 0
+      PT 30.9995 0 0
+      PT 31 0.4825 0
+      PT 34 1.93 0
+      PT 34.0952381 1.92998095 0
+      PT 34.0957381 0 0
+      PT 35.4995 0 0
+      PT 35.5 1.9297 0
+      PT 38.5952381 1.92908095 0
+      PT 38.5957381 0 0
+      PT 39.9995 0 0
+      PT 40 1.9288 0
+      PT 43.0952381 1.92818095 0
+      PT 43.0957381 0.52725723 0
+      PT 44.4995 1.18362056 0
+      PT 44.5 1.9279 0
+      PT 84.9995 1.9222001 0
+      PT 85 0 0
+      PT 88.0952381 0 0
+      PT 88.0957381 1.92158085 0
+      PT 89.4995 1.9213001 0
+      PT 89.5 0 0
+      PT 92.5952381 0 0
+      PT 92.5957381 1.92068085 0
+      PT 93.9995 1.9204001 0
+      PT 94 0 0
     >
     <FXCHAIN
       WNDRECT 112 46 716 610
@@ -131,73 +164,7 @@
       DOCKED 0
     >
     <ITEM
-      POSITION 2.5
-      SNAPOFFS 0
-      LENGTH 3.09523809523809
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {BD0C07CD-AF0A-402B-A065-E5C56324E3C0}
-      IID 5
-      NAME 341547__nakhas__cat-grooming.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {E07C57DA-68F8-42A9-BFAE-78615218DC87}
-      <SOURCE WAVE
-        FILE "cat_sounds\341547__nakhas__cat-grooming.wav"
-      >
-    >
-    <ITEM
-      POSITION 7
-      SNAPOFFS 0
-      LENGTH 3.09523809523809
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {1EAD825E-1989-4B96-BA9F-38CB34CE36A2}
-      IID 5
-      NAME 341547__nakhas__cat-grooming.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {B8EAFDA0-75C1-481D-BD47-FC89DD50C0A3}
-      <SOURCE WAVE
-        FILE "cat_sounds\341547__nakhas__cat-grooming.wav"
-      >
-    >
-    <ITEM
-      POSITION 11.5
-      SNAPOFFS 0
-      LENGTH 3.09523809523809
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {9F9B8B0B-009D-43E0-8D15-C20EE012CF68}
-      IID 5
-      NAME 341547__nakhas__cat-grooming.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {9FC296B4-60A9-464F-ABD9-ACCC19853FB1}
-      <SOURCE WAVE
-        FILE "cat_sounds\341547__nakhas__cat-grooming.wav"
-      >
-    >
-    <ITEM
-      POSITION 16
+      POSITION 4
       SNAPOFFS 0
       LENGTH 3.09523809523809
       LOOP 1
@@ -219,7 +186,7 @@
       >
     >
     <ITEM
-      POSITION 20.5
+      POSITION 8.5
       SNAPOFFS 0
       LENGTH 3.09523809523809
       LOOP 1
@@ -241,7 +208,7 @@
       >
     >
     <ITEM
-      POSITION 25
+      POSITION 13
       SNAPOFFS 0
       LENGTH 3.09523809523809
       LOOP 1
@@ -263,7 +230,7 @@
       >
     >
     <ITEM
-      POSITION 29.5
+      POSITION 17.5
       SNAPOFFS 0
       LENGTH 3.09523809523809
       LOOP 1
@@ -285,7 +252,7 @@
       >
     >
     <ITEM
-      POSITION 34
+      POSITION 22
       SNAPOFFS 0
       LENGTH 3.09523809523809
       LOOP 1
@@ -307,7 +274,7 @@
       >
     >
     <ITEM
-      POSITION 38.5
+      POSITION 26.5
       SNAPOFFS 0
       LENGTH 3.09523809523809
       LOOP 1
@@ -329,7 +296,7 @@
       >
     >
     <ITEM
-      POSITION 43
+      POSITION 31
       SNAPOFFS 0
       LENGTH 3.09523809523809
       LOOP 1
@@ -351,7 +318,7 @@
       >
     >
     <ITEM
-      POSITION 47.5
+      POSITION 35.5
       SNAPOFFS 0
       LENGTH 3.09523809523809
       LOOP 1
@@ -373,7 +340,7 @@
       >
     >
     <ITEM
-      POSITION 52
+      POSITION 40
       SNAPOFFS 0
       LENGTH 3.09523809523809
       LOOP 1
@@ -395,7 +362,7 @@
       >
     >
     <ITEM
-      POSITION 56.5
+      POSITION 44.5
       SNAPOFFS 0
       LENGTH 3.09523809523812
       LOOP 1
@@ -417,7 +384,7 @@
       >
     >
     <ITEM
-      POSITION 61
+      POSITION 49
       SNAPOFFS 0
       LENGTH 3.09523809523812
       LOOP 1
@@ -439,7 +406,7 @@
       >
     >
     <ITEM
-      POSITION 65.5
+      POSITION 53.5
       SNAPOFFS 0
       LENGTH 3.09523809523809
       LOOP 1
@@ -461,7 +428,7 @@
       >
     >
     <ITEM
-      POSITION 70
+      POSITION 58
       SNAPOFFS 0
       LENGTH 3.09523809523812
       LOOP 1
@@ -483,7 +450,7 @@
       >
     >
     <ITEM
-      POSITION 74.5
+      POSITION 62.5
       SNAPOFFS 0
       LENGTH 3.09523809523809
       LOOP 1
@@ -505,7 +472,7 @@
       >
     >
     <ITEM
-      POSITION 79
+      POSITION 67
       SNAPOFFS 0
       LENGTH 3.09523809523809
       LOOP 1
@@ -527,7 +494,7 @@
       >
     >
     <ITEM
-      POSITION 83.5
+      POSITION 71.5
       SNAPOFFS 0
       LENGTH 3.09523809523809
       LOOP 1
@@ -549,7 +516,7 @@
       >
     >
     <ITEM
-      POSITION 88
+      POSITION 76
       SNAPOFFS 0
       LENGTH 3.09523809523809
       LOOP 1
@@ -571,7 +538,7 @@
       >
     >
     <ITEM
-      POSITION 92.5
+      POSITION 80.5
       SNAPOFFS 0
       LENGTH 3.09523809523809
       LOOP 1
@@ -593,7 +560,7 @@
       >
     >
     <ITEM
-      POSITION 97
+      POSITION 85
       SNAPOFFS 0
       LENGTH 3.09523809523812
       LOOP 1
@@ -615,7 +582,7 @@
       >
     >
     <ITEM
-      POSITION 101.5
+      POSITION 89.5
       SNAPOFFS 0
       LENGTH 3.09523809523807
       LOOP 1
@@ -637,7 +604,7 @@
       >
     >
     <ITEM
-      POSITION 106
+      POSITION 94
       SNAPOFFS 0
       LENGTH 3.09523809523807
       LOOP 1
@@ -664,7 +631,7 @@
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 0.58408179385335 -0.456 -1 -1 1
+    VOLPAN 0.20960685752829 -0.456 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     ISBUS 0 0
@@ -689,13 +656,42 @@
       ARM 1
       DEFSHAPE 0 -1 -1
       PT 0 2 0
-      PT 24 2 0
-      PT 24 0 0
-      PT 25 0.01 0
+      PT 15.4995 2 0
+      PT 15.5 0.01 0
+      PT 16.5 0.01 0
+      PT 16.5005 2 0
+      PT 19.9995 2 0
+      PT 20 0.01 0
+      PT 21 0.01 0
+      PT 21.0005 2 0
+      PT 22.9995 2 0
+      PT 24.0005 0.000005 0
+      PT 24.4995 0.004995 0
+      PT 24.5 0.01 0
+      PT 33.4995 0.01 0
+      PT 33.5 1.98 0
+      PT 34.5 1.98 0
+      PT 34.5005 0.01 0
+      PT 37.9995 0.01 0
+      PT 38 1.98 0
+      PT 39 1.98 0
+      PT 39.0005 0.01 0
+      PT 42.4995 0.01 0
+      PT 42.5 1.98 0
+      PT 43.5 1.98 0
+      PT 43.5005 0.01 0
       PT 45 0.01 0
       PT 45 1.98 0
-      PT 96 1.98 0
-      PT 96 0 0 0 1
+      PT 86.9995 1.98 0
+      PT 87 0 0
+      PT 88 0 0
+      PT 88.0005 1.98 0
+      PT 91.4995 1.98 0
+      PT 91.5 0 0
+      PT 92.5 0 0
+      PT 92.5005 1.98 0
+      PT 95.9995 1.98 0
+      PT 96 0 0
     >
     <FXCHAIN
       WNDRECT 112 60 655 408
@@ -704,73 +700,7 @@
       DOCKED 0
     >
     <ITEM
-      POSITION 5
-      SNAPOFFS 0
-      LENGTH 1
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {B5334947-358C-4933-B773-A79749EAF398}
-      IID 40
-      NAME 348848__mpv2__mouth-smacking-sounds.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 3
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {37F7AE6A-E6E7-49E8-AB44-5AEAAA1CB5D9}
-      <SOURCE WAVE
-        FILE "cat_sounds\348848__mpv2__mouth-smacking-sounds.wav"
-      >
-    >
-    <ITEM
-      POSITION 9.5
-      SNAPOFFS 0
-      LENGTH 1
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {1537968F-217E-49B3-9E63-B4532C9570DF}
-      IID 40
-      NAME 348848__mpv2__mouth-smacking-sounds.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 3
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {912AF968-060B-4890-A2F0-774846737EC5}
-      <SOURCE WAVE
-        FILE "cat_sounds\348848__mpv2__mouth-smacking-sounds.wav"
-      >
-    >
-    <ITEM
-      POSITION 14
-      SNAPOFFS 0
-      LENGTH 1
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {CCF2E68C-12D4-4943-8DD3-D4D28A03F6AA}
-      IID 40
-      NAME 348848__mpv2__mouth-smacking-sounds.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 3
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {FAAAE99D-5E44-4607-8B7C-59FA7C4D300D}
-      <SOURCE WAVE
-        FILE "cat_sounds\348848__mpv2__mouth-smacking-sounds.wav"
-      >
-    >
-    <ITEM
-      POSITION 18.5
+      POSITION 6.5
       SNAPOFFS 0
       LENGTH 1
       LOOP 1
@@ -792,7 +722,7 @@
       >
     >
     <ITEM
-      POSITION 23
+      POSITION 11
       SNAPOFFS 0
       LENGTH 1
       LOOP 1
@@ -814,7 +744,7 @@
       >
     >
     <ITEM
-      POSITION 27.5
+      POSITION 15.5
       SNAPOFFS 0
       LENGTH 1
       LOOP 1
@@ -836,7 +766,7 @@
       >
     >
     <ITEM
-      POSITION 32
+      POSITION 20
       SNAPOFFS 0
       LENGTH 1
       LOOP 1
@@ -858,7 +788,7 @@
       >
     >
     <ITEM
-      POSITION 36.5
+      POSITION 24.5
       SNAPOFFS 0
       LENGTH 1
       LOOP 1
@@ -880,7 +810,7 @@
       >
     >
     <ITEM
-      POSITION 41
+      POSITION 29
       SNAPOFFS 0
       LENGTH 1
       LOOP 1
@@ -902,7 +832,7 @@
       >
     >
     <ITEM
-      POSITION 45.5
+      POSITION 33.5
       SNAPOFFS 0
       LENGTH 1
       LOOP 1
@@ -924,7 +854,7 @@
       >
     >
     <ITEM
-      POSITION 50
+      POSITION 38
       SNAPOFFS 0
       LENGTH 1
       LOOP 1
@@ -946,7 +876,7 @@
       >
     >
     <ITEM
-      POSITION 54.5
+      POSITION 42.5
       SNAPOFFS 0
       LENGTH 1
       LOOP 1
@@ -968,7 +898,7 @@
       >
     >
     <ITEM
-      POSITION 59
+      POSITION 47
       SNAPOFFS 0
       LENGTH 1
       LOOP 1
@@ -990,7 +920,7 @@
       >
     >
     <ITEM
-      POSITION 63.5
+      POSITION 51.5
       SNAPOFFS 0
       LENGTH 1
       LOOP 1
@@ -1012,7 +942,7 @@
       >
     >
     <ITEM
-      POSITION 68
+      POSITION 56
       SNAPOFFS 0
       LENGTH 1
       LOOP 1
@@ -1034,7 +964,7 @@
       >
     >
     <ITEM
-      POSITION 72.5
+      POSITION 60.5
       SNAPOFFS 0
       LENGTH 1
       LOOP 1
@@ -1056,7 +986,7 @@
       >
     >
     <ITEM
-      POSITION 77
+      POSITION 65
       SNAPOFFS 0
       LENGTH 1
       LOOP 1
@@ -1078,7 +1008,7 @@
       >
     >
     <ITEM
-      POSITION 81.5
+      POSITION 69.5
       SNAPOFFS 0
       LENGTH 1
       LOOP 1
@@ -1100,7 +1030,7 @@
       >
     >
     <ITEM
-      POSITION 85.5
+      POSITION 73.5
       SNAPOFFS 0
       LENGTH 1
       LOOP 1
@@ -1122,7 +1052,7 @@
       >
     >
     <ITEM
-      POSITION 90
+      POSITION 78
       SNAPOFFS 0
       LENGTH 1
       LOOP 1
@@ -1144,7 +1074,7 @@
       >
     >
     <ITEM
-      POSITION 94.5
+      POSITION 82.5
       SNAPOFFS 0
       LENGTH 1
       LOOP 1
@@ -1166,7 +1096,7 @@
       >
     >
     <ITEM
-      POSITION 99
+      POSITION 87
       SNAPOFFS 0
       LENGTH 1
       LOOP 1
@@ -1188,7 +1118,7 @@
       >
     >
     <ITEM
-      POSITION 103.5
+      POSITION 91.5
       SNAPOFFS 0
       LENGTH 1
       LOOP 1
@@ -1210,7 +1140,7 @@
       >
     >
     <ITEM
-      POSITION 108
+      POSITION 96
       SNAPOFFS 0
       LENGTH 1
       LOOP 1
@@ -1237,7 +1167,7 @@
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 0.24114017177058 -0.456 -1 -1 1
+    VOLPAN 0.03773248444845 -0.456 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     ISBUS 0 0
@@ -1262,59 +1192,81 @@
       ARM 1
       DEFSHAPE 0 -1 -1
       PT 0 2 0
-      PT 24 2 0
-      PT 24 0 0
-      PT 51 0.01 0
-      PT 51 1.96 0
-      PT 89 1.92 0
-      PT 89 0.01 0 0 1
+      PT 11.9995 2 0
+      PT 12 0 0
+      PT 13.790839 0.00066327 0
+      PT 13.791339 2 0
+      PT 16.4995 2 0
+      PT 16.5 0.00166667 0
+      PT 18.290839 0.00232994 0
+      PT 18.291339 2 0
+      PT 20.9995 2 0
+      PT 21 0.00333333 0
+      PT 22.790839 0.00399661 0
+      PT 22.791339 2 0
+      PT 23.9995 2 0
+      PT 25.4995 0.32629784 0
+      PT 25.5 0.005 0
+      PT 27.290839 0.00566327 0
+      PT 27.291339 0.00121901 0
+      PT 29.9995 0.00222204 0
+      PT 30 0.00666667 0
+      PT 31.790839 0.00732994 0
+      PT 31.791339 0.00288568 0
+      PT 34.4995 0.0038887 0
+      PT 34.5 0.00833333 0
+      PT 36.290839 0.00899661 0
+      PT 36.291339 0.00455235 0
+      PT 38.9995 0.00555537 0
+      PT 39 1.96 0
+      PT 40.790839 1.95811491 0
+      PT 40.791339 0.00621901 0
+      PT 43.4995 0.00722204 0
+      PT 43.5 1.95526316 0
+      PT 45.290839 1.95337806 0
+      PT 45.291339 0.00788568 0
+      PT 47.9995 0.0088887 0
+      PT 48 1.95052632 0
+      PT 49.790839 1.94864122 0
+      PT 49.791339 0.00955235 0
+      PT 50.9995 0.00999981 0
+      PT 52.4995 1.64082259 0
+      PT 52.5 1.94578947 0
+      PT 54.290839 1.94390438 0
+      PT 54.291339 1.95653543 0
+      PT 56.9995 1.95368474 0
+      PT 57 1.94105263 0
+      PT 58.790839 1.93916754 0
+      PT 58.791339 1.95179859 0
+      PT 61.4995 1.94894789 0
+      PT 61.5 1.93631579 0
+      PT 63.290839 1.9344307 0
+      PT 63.291339 1.94706175 0
+      PT 65.9995 1.94421105 0
+      PT 66 1.93157895 0
+      PT 67.790839 1.92969385 0
+      PT 67.791339 1.94232491 0
+      PT 70.4995 1.93947421 0
+      PT 70.5 1.92684211 0
+      PT 72.290839 1.92495701 0
+      PT 72.291339 1.93758806 0
+      PT 74.4995 1.93526368 0
+      PT 74.5 1.92263158 0
+      PT 76.290839 1.92074649 0
+      PT 76.291339 1.93337754 0
+      PT 78.9995 1.93052684 0
+      PT 79 0.01 0
+      PT 80.790839 0.01 0
+      PT 80.791339 1.9286407 0
+      PT 83.4995 1.92579 0
+      PT 83.5 0.01 0
+      PT 85.290839 0.01 0
+      PT 85.291339 1.92390385 0
+      PT 87.9995 1.92105316 0
+      PT 88 0.01 0
     >
     <ITEM
-      POSITION 10.5
-      SNAPOFFS 0
-      LENGTH 1.79083900226757
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {240FACE6-AD83-48B6-8836-3D9AC32516BD}
-      IID 6
-      NAME 415209__inspectorj__cat-screaming-a.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {311F57AF-10BF-4E3F-843C-BF4214F44AF5}
-      <SOURCE WAVE
-        FILE "cat_sounds\415209__inspectorj__cat-screaming-a.wav"
-      >
-    >
-    <ITEM
-      POSITION 15
-      SNAPOFFS 0
-      LENGTH 1.79083900226757
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {4DE856C9-3895-439B-8B8B-9473EEB77268}
-      IID 6
-      NAME 415209__inspectorj__cat-screaming-a.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {1A753661-1EB7-47FF-AEE4-68FE927D2C37}
-      <SOURCE WAVE
-        FILE "cat_sounds\415209__inspectorj__cat-screaming-a.wav"
-      >
-    >
-    <ITEM
-      POSITION 19.5
+      POSITION 7.5
       SNAPOFFS 0
       LENGTH 1.79083900226757
       LOOP 1
@@ -1336,271 +1288,7 @@
       >
     >
     <ITEM
-      POSITION 24
-      SNAPOFFS 0
-      LENGTH 1.79083900226757
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {3CED9AE3-569A-4D5A-BB6C-9FDA9D27530E}
-      IID 6
-      NAME 415209__inspectorj__cat-screaming-a.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {B7064E86-0B16-45CE-AFBA-B152B6A9F458}
-      <SOURCE WAVE
-        FILE "cat_sounds\415209__inspectorj__cat-screaming-a.wav"
-      >
-    >
-    <ITEM
-      POSITION 28.5
-      SNAPOFFS 0
-      LENGTH 1.79083900226757
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {388FB7AA-CC00-4AE1-A556-9C17570BBB8B}
-      IID 6
-      NAME 415209__inspectorj__cat-screaming-a.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {EF49C66A-0A65-4F1C-B570-B67C7C9E62F6}
-      <SOURCE WAVE
-        FILE "cat_sounds\415209__inspectorj__cat-screaming-a.wav"
-      >
-    >
-    <ITEM
-      POSITION 33
-      SNAPOFFS 0
-      LENGTH 1.79083900226757
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {CF0B4D7A-29B4-4D0C-8C98-E6F5A313FAD0}
-      IID 6
-      NAME 415209__inspectorj__cat-screaming-a.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {A6B0C08D-F739-4214-92B2-B11BF7E2C5B7}
-      <SOURCE WAVE
-        FILE "cat_sounds\415209__inspectorj__cat-screaming-a.wav"
-      >
-    >
-    <ITEM
-      POSITION 37.5
-      SNAPOFFS 0
-      LENGTH 1.79083900226757
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {C2476A61-493B-4006-B3A5-EE10A5D52766}
-      IID 6
-      NAME 415209__inspectorj__cat-screaming-a.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {B45F3D08-3685-4BD1-A6B2-7A55BFF7FE90}
-      <SOURCE WAVE
-        FILE "cat_sounds\415209__inspectorj__cat-screaming-a.wav"
-      >
-    >
-    <ITEM
-      POSITION 42
-      SNAPOFFS 0
-      LENGTH 1.79083900226757
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {80D22998-C19C-4222-9ECE-69676B538E48}
-      IID 6
-      NAME 415209__inspectorj__cat-screaming-a.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {8F98CF56-2806-4677-8BE0-E765CBDB0B08}
-      <SOURCE WAVE
-        FILE "cat_sounds\415209__inspectorj__cat-screaming-a.wav"
-      >
-    >
-    <ITEM
-      POSITION 46.5
-      SNAPOFFS 0
-      LENGTH 1.79083900226757
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {55D7745C-A23A-404A-84AD-128A5DBB309D}
-      IID 6
-      NAME 415209__inspectorj__cat-screaming-a.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {77ACA41F-8451-46AA-AEF8-CB8F499DA577}
-      <SOURCE WAVE
-        FILE "cat_sounds\415209__inspectorj__cat-screaming-a.wav"
-      >
-    >
-    <ITEM
-      POSITION 51
-      SNAPOFFS 0
-      LENGTH 1.79083900226756
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {D537DB8E-6B9D-412C-9DCE-2AA04A454211}
-      IID 6
-      NAME 415209__inspectorj__cat-screaming-a.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {0715A3A0-3C0C-4725-B153-2F522E3F5CCF}
-      <SOURCE WAVE
-        FILE "cat_sounds\415209__inspectorj__cat-screaming-a.wav"
-      >
-    >
-    <ITEM
-      POSITION 55.5
-      SNAPOFFS 0
-      LENGTH 1.79083900226756
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {7F35DECD-3355-410D-B82D-9CC23B3001C3}
-      IID 6
-      NAME 415209__inspectorj__cat-screaming-a.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {B2CEC344-DDA6-4CE4-BC72-829184510C1B}
-      <SOURCE WAVE
-        FILE "cat_sounds\415209__inspectorj__cat-screaming-a.wav"
-      >
-    >
-    <ITEM
-      POSITION 60
-      SNAPOFFS 0
-      LENGTH 1.79083900226756
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {E056BB1C-4FA2-4429-B6A0-490DB7535E3E}
-      IID 6
-      NAME 415209__inspectorj__cat-screaming-a.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {52EE7418-4574-4867-8CCE-585761A891CF}
-      <SOURCE WAVE
-        FILE "cat_sounds\415209__inspectorj__cat-screaming-a.wav"
-      >
-    >
-    <ITEM
-      POSITION 64.5
-      SNAPOFFS 0
-      LENGTH 1.79083900226757
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {670C90AE-0CA2-4C65-941F-069198D6E443}
-      IID 6
-      NAME 415209__inspectorj__cat-screaming-a.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {98BF4E10-8301-401A-B27F-8CDA01CD09C4}
-      <SOURCE WAVE
-        FILE "cat_sounds\415209__inspectorj__cat-screaming-a.wav"
-      >
-    >
-    <ITEM
-      POSITION 69
-      SNAPOFFS 0
-      LENGTH 1.79083900226757
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {7FE8C1DF-453F-44F9-874D-2C9A972B76A9}
-      IID 6
-      NAME 415209__inspectorj__cat-screaming-a.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {61F4F29C-073E-4BAE-B6A2-852D4FBB722F}
-      <SOURCE WAVE
-        FILE "cat_sounds\415209__inspectorj__cat-screaming-a.wav"
-      >
-    >
-    <ITEM
-      POSITION 73.5
-      SNAPOFFS 0
-      LENGTH 1.79083900226757
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {2D1400DC-2C84-4648-88F8-CEFE2107A5CC}
-      IID 6
-      NAME 415209__inspectorj__cat-screaming-a.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {7BFE88EE-E745-4DDF-AC1A-9CE691D627A9}
-      <SOURCE WAVE
-        FILE "cat_sounds\415209__inspectorj__cat-screaming-a.wav"
-      >
-    >
-    <ITEM
-      POSITION 78
+      POSITION 66
       SNAPOFFS 0
       LENGTH 1.79083900226757
       LOOP 1
@@ -1621,174 +1309,20 @@
         FILE "cat_sounds\415209__inspectorj__cat-screaming-a.wav"
       >
     >
-    <ITEM
-      POSITION 82.5
-      SNAPOFFS 0
-      LENGTH 1.79083900226757
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {54E6A56B-D622-4877-91FA-0D7C7BD1DC79}
-      IID 6
-      NAME 415209__inspectorj__cat-screaming-a.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {A28C9E34-EAB8-489E-BD90-821C04E5BE6A}
-      <SOURCE WAVE
-        FILE "cat_sounds\415209__inspectorj__cat-screaming-a.wav"
-      >
-    >
-    <ITEM
-      POSITION 86.5
-      SNAPOFFS 0
-      LENGTH 1.79083900226757
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {B6E05EF5-E75D-4CB6-B609-864C3B7AF8FB}
-      IID 6
-      NAME 415209__inspectorj__cat-screaming-a.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {DEBC9F51-7234-457B-88E8-1C61419AA19B}
-      <SOURCE WAVE
-        FILE "cat_sounds\415209__inspectorj__cat-screaming-a.wav"
-      >
-    >
-    <ITEM
-      POSITION 91
-      SNAPOFFS 0
-      LENGTH 1.79083900226757
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {89F2EE16-73A2-4930-B7B7-E1360851BDDD}
-      IID 6
-      NAME 415209__inspectorj__cat-screaming-a.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {6F46DA07-7D59-4C9F-9EE1-482D700813D3}
-      <SOURCE WAVE
-        FILE "cat_sounds\415209__inspectorj__cat-screaming-a.wav"
-      >
-    >
-    <ITEM
-      POSITION 95.5
-      SNAPOFFS 0
-      LENGTH 1.79083900226757
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {D54879B5-49C6-4C96-9C98-2879A8FD579D}
-      IID 6
-      NAME 415209__inspectorj__cat-screaming-a.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {667622DE-D0EE-49C0-BC1C-D8A2ED22F325}
-      <SOURCE WAVE
-        FILE "cat_sounds\415209__inspectorj__cat-screaming-a.wav"
-      >
-    >
-    <ITEM
-      POSITION 100
-      SNAPOFFS 0
-      LENGTH 1.79083900226757
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {A5B8AB5B-3473-4DB7-83F7-6C2077BB91FA}
-      IID 6
-      NAME 415209__inspectorj__cat-screaming-a.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {33BFD17A-8BE9-4B56-B338-1EB51D102404}
-      <SOURCE WAVE
-        FILE "cat_sounds\415209__inspectorj__cat-screaming-a.wav"
-      >
-    >
-    <ITEM
-      POSITION 104.5
-      SNAPOFFS 0
-      LENGTH 1.79083900226757
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {4A298996-DFCF-49CF-A86A-579F8167272E}
-      IID 6
-      NAME 415209__inspectorj__cat-screaming-a.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {96933BD0-86F9-477F-8B1C-540C51D2A62D}
-      <SOURCE WAVE
-        FILE "cat_sounds\415209__inspectorj__cat-screaming-a.wav"
-      >
-    >
-    <ITEM
-      POSITION 109.09523809523807
-      SNAPOFFS 0
-      LENGTH 1.79083900226757
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {E03BE95B-DF47-49A3-B7A6-A6CA1A6FFC10}
-      IID 6
-      NAME 415209__inspectorj__cat-screaming-a.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {6FE6BECF-D919-4EA9-91AA-334D74819E74}
-      <SOURCE WAVE
-        FILE "cat_sounds\415209__inspectorj__cat-screaming-a.wav"
-      >
-    >
   >
   <TRACK {2EC0311C-59F4-4F40-B408-91EFA491E28B}
     NAME purr
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 0.8829554344746 0.6 -1 -1 1
+    VOLPAN 0.10774555551637 0.6 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     ISBUS 0 0
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 1 -1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -1805,13 +1339,47 @@
       LANEHEIGHT 0 0
       ARM 0
       DEFSHAPE 0 -1 -1
-      PT 24 1.15 0
-      PT 24 0 0
-      PT 53 0.01 0
+      PT 16.1139229 0.00141859 0
+      PT 16.1144229 1.15 0
+      PT 17.4995 1.15 0
+      PT 17.5 0.00189655 0
+      PT 20.6139229 0.00297032 0
+      PT 20.6144229 1.15 0
+      PT 21.6134229 1.15 0
+      PT 21.6139229 0.00331515 0
+      PT 24.7278458 0.00438891 0
+      PT 24.7283458 0.00025115 0
+      PT 26.1134229 0.00072877 0
+      PT 26.1139229 0.00486687 0
+      PT 29.2278458 0.00594064 0
+      PT 29.2283458 0.00180288 0
+      PT 30.9995 0.00241362 0
+      PT 31 0.00655172 0
+      PT 34.1139229 0.00762549 0
+      PT 34.1144229 0.00348773 0
+      PT 35.1134229 0.00383221 0
+      PT 35.1139229 0.00797032 0
+      PT 38.2278458 0.00904408 0
+      PT 38.2283458 0.00490633 0
+      PT 39.6134229 0.00538394 0
+      PT 39.6139229 0.00952204 0
+      PT 41 0.01 0
+      PT 41 1.02 0
+      PT 42.7278458 1.02 0
+      PT 42.7283458 0.00645805 0
+      PT 43.9995 0.00689638 0
+      PT 44 1.02 0
+      PT 47.1139229 1.02 0
+      PT 47.1144229 0.00797049 0
+      PT 48.8855771 0.00858123 0
+      PT 48.8860771 1.02 0
+      PT 52 1.02 0
+      PT 52.0005 0.13508933 0
+      PT 52.9995 0.45916401 0
       PT 53 1.02 0
     >
     <ITEM
-      POSITION 16.38607709750567
+      POSITION 4.38607709750567
       SNAPOFFS 0
       LENGTH 3.11392290249433
       LOOP 1
@@ -1833,7 +1401,7 @@
       >
     >
     <ITEM
-      POSITION 20.5
+      POSITION 8.5
       SNAPOFFS 0
       LENGTH 3.11392290249433
       LOOP 1
@@ -1855,7 +1423,7 @@
       >
     >
     <ITEM
-      POSITION 25
+      POSITION 13
       SNAPOFFS 0
       LENGTH 3.11392290249433
       LOOP 1
@@ -1877,7 +1445,7 @@
       >
     >
     <ITEM
-      POSITION 29.5
+      POSITION 17.5
       SNAPOFFS 0
       LENGTH 3.11392290249433
       LOOP 1
@@ -1899,7 +1467,7 @@
       >
     >
     <ITEM
-      POSITION 33.61392290249933
+      POSITION 21.61392290249933
       SNAPOFFS 0
       LENGTH 3.11392290249432
       LOOP 1
@@ -1921,7 +1489,7 @@
       >
     >
     <ITEM
-      POSITION 38.11392290249933
+      POSITION 26.11392290249933
       SNAPOFFS 0
       LENGTH 3.11392290249433
       LOOP 1
@@ -1943,7 +1511,7 @@
       >
     >
     <ITEM
-      POSITION 43
+      POSITION 31
       SNAPOFFS 0
       LENGTH 3.11392290249433
       LOOP 1
@@ -1965,7 +1533,7 @@
       >
     >
     <ITEM
-      POSITION 47.11392290249933
+      POSITION 35.11392290249933
       SNAPOFFS 0
       LENGTH 3.11392290249433
       LOOP 1
@@ -1987,7 +1555,7 @@
       >
     >
     <ITEM
-      POSITION 51.61392290249933
+      POSITION 39.61392290249933
       SNAPOFFS 0
       LENGTH 3.11392290249433
       LOOP 1
@@ -2009,7 +1577,7 @@
       >
     >
     <ITEM
-      POSITION 56
+      POSITION 44
       SNAPOFFS 0
       LENGTH 3.11392290249434
       LOOP 1
@@ -2031,7 +1599,7 @@
       >
     >
     <ITEM
-      POSITION 60.88607709750067
+      POSITION 48.88607709750067
       SNAPOFFS 0
       LENGTH 3.11392290249434
       LOOP 1
@@ -2053,7 +1621,7 @@
       >
     >
     <ITEM
-      POSITION 65
+      POSITION 53
       SNAPOFFS 0
       LENGTH 3.11392290249432
       LOOP 1
@@ -2075,7 +1643,7 @@
       >
     >
     <ITEM
-      POSITION 69.5
+      POSITION 57.5
       SNAPOFFS 0
       LENGTH 3.11392290249432
       LOOP 1
@@ -2097,7 +1665,7 @@
       >
     >
     <ITEM
-      POSITION 74
+      POSITION 62
       SNAPOFFS 0
       LENGTH 3.11392290249432
       LOOP 1
@@ -2119,7 +1687,7 @@
       >
     >
     <ITEM
-      POSITION 78.88607709750067
+      POSITION 66.88607709750067
       SNAPOFFS 0
       LENGTH 3.11392290249432
       LOOP 1
@@ -2141,7 +1709,7 @@
       >
     >
     <ITEM
-      POSITION 83
+      POSITION 71
       SNAPOFFS 0
       LENGTH 3.11392290249432
       LOOP 1
@@ -2163,7 +1731,7 @@
       >
     >
     <ITEM
-      POSITION 87.5
+      POSITION 75.5
       SNAPOFFS 0
       LENGTH 3.11392290249432
       LOOP 1
@@ -2185,7 +1753,7 @@
       >
     >
     <ITEM
-      POSITION 90.61392290249432
+      POSITION 78.61392290249432
       SNAPOFFS 0
       LENGTH 11.61392290249933
       LOOP 1
@@ -2193,7 +1761,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 4.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {D3D37F03-030E-48A4-83DB-720FA28D01B8}
       IID 1
       NAME 260881__trautwein__cat-purr.wav
@@ -2231,7 +1799,7 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 23.61392290249433
+      POSITION 11.61392290249433
       SNAPOFFS 0
       LENGTH 2.86770975056689
       LOOP 1
@@ -2277,7 +1845,7 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 32
+      POSITION 20
       SNAPOFFS 0
       LENGTH 1.5
       LOOP 1
@@ -2299,7 +1867,7 @@
       >
     >
     <ITEM
-      POSITION 36.5
+      POSITION 29
       SNAPOFFS 0
       LENGTH 2.51714285714286
       LOOP 1
@@ -2351,13 +1919,19 @@
       ARM 1
       DEFSHAPE 0 -1 -1
       PT 0 1 0
-      PT 25 0.34 0
-      PT 30.9995 1.5399 0
-      PT 34.9995 1.66878555 0
-      PT 42 0.28 0 0 1
+      PT 13.790339 0.63593505 0
+      PT 13.790839 0.4981678 0
+      PT 17.5 0.74 0 0 1
+      PT 24.4995 0.74 0
+      PT 26.1134229 0.78353015 0
+      PT 26.1139229 0.69002772 0
+      PT 32.1139229 0.56342324 0
+      PT 32.3230839 0.9271255 0
+      PT 32.3235839 0.88988861 0
+      PT 58.15428685 0.28 0
     >
     <ITEM
-      POSITION 25.79083900226757
+      POSITION 13.79083900226757
       SNAPOFFS 0
       LENGTH 6.20916099773243
       LOOP 1
@@ -2379,7 +1953,7 @@
       >
     >
     <ITEM
-      POSITION 35
+      POSITION 26.11392290249933
       SNAPOFFS 0
       LENGTH 6.20916099773243
       LOOP 1
@@ -2431,17 +2005,21 @@
       ARM 1
       DEFSHAPE 0 -1 -1
       PT 0 1 0
-      PT 25 0.34 0
-      PT 30.9995 1.5399 0
+      PT 23.4995 0.3796132 0
+      PT 26.5947381 0.84463572 0
+      PT 27.208661 0.91911882 0
+      PT 27.209161 1.56949909 0
+      PT 33.418322 0.39501328 0
+      PT 33.418822 1.61785391 0
       PT 34.9995 1.66878555 0
       PT 35.4995 1.56959367 0
       PT 42 0.34 0 0 1
       PT 56 0.34 0
     >
     <ITEM
-      POSITION 35.5
+      POSITION 27.20916099773742
       SNAPOFFS 0
-      LENGTH 6.20916099773243
+      LENGTH 6.20916099773244
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
@@ -2473,7 +2051,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 0
+    SEL 1
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -2484,30 +2062,241 @@
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 0
+      DEFSHAPE 0 -1 -1
+      PT 10.9995 0.77595942 0
+      PT 11.9995 0.6948973 0
+      PT 12.0005 0.65428518 0
+      PT 12.4995 0.7305897 0
+      PT 12.5005 1.27181964 0
+      PT 13 1.17272695 0
+      PT 13.0005 0.91375587 0
+      PT 13.5005 1.17262776 0
+      PT 16.5005 0.57784831 0
+      PT 17.209161 0.70078105 0
+      PT 17.209661 1.27307155 0
+      PT 18.4995 1.33962794 0
+      PT 20.5005 1.22624122 0
+      PT 21.12825397 1.33481516 0
+      PT 21.12875397 0.11507189 0
+      PT 21.5 0 0
+      PT 22 0.38 0
+      PT 22 1.34443084 0
+      PT 22.4995 1.47962121 0
+      PT 23.0947381 1.45328535 0
+      PT 23.0952381 1.43535485 0
+      PT 24.5947381 1.36901061 0
+      PT 24.5952381 0.77595941 0
+      PT 24.9995 0.69576042 0
+      PT 25.0947381 0.72253728 0
+      PT 25.0957381 0.77586023 0
+      PT 26.0947381 0.57767484 0
+      PT 26.5952381 0.65420873 0
+      PT 26.5957381 1.10756173 0
+      PT 27.0005 1.06470743 0
+      PT 27.5957381 1.25414203 0
+      PT 28.4995 1.21415577 0
+      PT 28.5 0.69566122 0
+      PT 29.0947381 0.57767484 0
+      PT 29.0957381 1.32050839 0
+      PT 30.4995 1.25840001 0
+      PT 31.0005 1.10350093 0
+      PT 32.62875397 1.03146007 0
+      PT 37.9995 1.32777054 0
+      PT 38 0.87533716 0
+      PT 38.5 0.77620726 0
+      PT 38.5005 1.39758263 0
+      PT 39.0005 0.67666834 0
+      PT 39.9995 0.47848296 0
+      PT 40.4995 0.48821068 0
+      PT 40.5 1.48558904 0
+      PT 41.0005 1.57215361 0
+      PT 42.4995 1.62045347 0
+      PT 42.5005 1.45383582 0
+      PT 48.9047619 1.24207379 0
+      PT 48.9052619 1.15563196 0
+      PT 49.9995 1.11819727 0
+      PT 50.0005 1.27181964 0
+      PT 50.4995 1.17282614 0
+      PT 50.5005 1.24205726 0
+      PT 58 0.99049756 0
+      PT 58.0005 1.32360568 0
+      PT 59.4052619 1.37376285 0
+      PT 66.790339 1.00108624 0
+      PT 66.790839 0.97754741 0
+      PT 67.4995 0.95527864 0
+      PT 67.5 0.8379244 0
+      PT 67.540339 0.83606073 0
+      PT 67.540839 0.84528422 0
+      PT 68.540339 0.81223495 0
+      PT 68.541339 0.76260319 0
+      PT 68.740839 0.75600657 0
+      PT 68.741339 0.80574046 0
+      PT 69.040339 0.77598971 0
+      PT 69.041339 0.78158914 0
+      PT 69.290839 0.77593996 0
+      PT 69.491339 0.75599003 0
+      PT 72.290339 0.66343887 0
+      PT 72.290839 1.33965374 0
+      PT 72.790339 1.36542821 0
+      PT 72.791339 1.27181964 0
+      PT 73.290339 1.17282614 0
+      PT 73.290839 0.47838377 0
+      PT 73.5 0.43688962 0
+      PT 73.5005 1.08946072 0
+      PT 74.290839 1.22615474 0
+      PT 74.291339 0.8016771 0
+      PT 75.0957381 0.7850797 0
+      PT 78.5957381 0.69831672 0
+      PT 81.0957381 0.61105392 0
+      PT 85.5005 0.43504861 0
+      PT 107.0005 0.51271339 0
+      PT 118.0005 0.61065798 0
+      PT 121.9995 0.47842785 0
+      PT 122 0.28 0
+      PT 132.5 0.28 0
+      PT 132.5005 1.65270708 0
+      PT 132.9995 1.66878555 0
+      PT 140 0.28 0
+    >
     <ITEM
-      POSITION 33.61392290249933
+      POSITION 21.61392290249933
       SNAPOFFS 0
-      LENGTH 0.38607709750067
+      LENGTH 0.88607709750067
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 5.1 0.422851 0 5.1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4AFA05A0-2E19-4431-91FD-53DCAE1A8D75}
+      IID 118
+      NAME pascal_better.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.27215419500133
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B24F43AD-650C-45B3-9EAE-23EC782AE068}
+      <SOURCE WAVE
+        FILE "FOLDER01\pascal_better.wav"
+      >
+    >
+    <ITEM
+      POSITION 23.09523809523809
+      SNAPOFFS 0
+      LENGTH 1.56961451249667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 4 0.328599 0 4 0 1
+      FADEOUT 1.1 0.01 0.069615 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {18F51F3C-E710-4B36-A22F-05F9A4C7E63F}
+      IID 118
+      NAME pascal_better.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.93038548750333
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {040D2FA4-6714-4457-B46F-37A59D5B7C2A}
+      <SOURCE WAVE
+        FILE "FOLDER01\pascal_better.wav"
+      >
+    >
+    <ITEM
+      POSITION 24.59523809523809
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.069615 1 1 0
+      FADEOUT 1.1 0.01 0.5 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {1977F622-E046-49C0-8F25-E9174014EE34}
+      IID 131
+      NAME franzi.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8C830B66-1A56-4611-A3B0-72C77A87B497}
+      <SOURCE WAVE
+        FILE "FOLDER01\franzi.wav"
+      >
+    >
+    <ITEM
+      POSITION 25.09523809523809
+      SNAPOFFS 0
+      LENGTH 1.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.5 1 1 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {87F87DC4-D042-428A-ACB0-EB1A125418CB}
+      IID 119
+      NAME franzi.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BFAACE86-12E4-4516-B0F5-98DA92204CC7}
+      <SOURCE WAVE
+        FILE "FOLDER01\franzi.wav"
+      >
+    >
+    <ITEM
+      POSITION 28.5
+      SNAPOFFS 0
+      LENGTH 2
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {0534322B-312B-4A64-AB27-790926C8B428}
-      IID 104
-      NAME 37807__mw-1984__hello.mp3
+      IGUID {03F2F497-B05C-41BC-95EF-0C5823637DB3}
+      IID 118
+      NAME pascal_better.wav
       VOLPAN 1 0 1 -1
-      SOFFS 0
+      SOFFS 3.5
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {D05D716F-7CAE-4546-8912-E5E653FD9745}
-      <SOURCE MP3
-        FILE "other_sounds\37807__mw-1984__hello.mp3" 1
+      GUID {CB4929A7-955E-4D1F-B746-0E12FFD37936}
+      <SOURCE WAVE
+        FILE "FOLDER01\pascal_better.wav"
       >
     >
     <ITEM
-      POSITION 34
+      POSITION 32
+      SNAPOFFS 0
+      LENGTH 2.20916099773243
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9B5212A3-759B-428D-B794-C8D5CA8E744D}
+      IID 118
+      NAME pascal_better.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 5.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3B74CD6C-2DD1-4F78-86C5-351033B3D436}
+      <SOURCE WAVE
+        FILE "FOLDER01\pascal_better.wav"
+      >
+    >
+    <ITEM
+      POSITION 36.5
       SNAPOFFS 0
       LENGTH 1.5
       LOOP 1
@@ -2516,16 +2305,236 @@
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {CE6648C5-6A68-4AC2-B2E7-AF4169CB4E29}
-      IID 103
-      NAME 365613__pyro13djt__hellofriend.wav
+      IGUID {B4F10967-9174-4F49-B2D7-13AEFBC4DECD}
+      IID 118
+      NAME pascal_better.wav
       VOLPAN 1 0 1 -1
-      SOFFS 27.5
+      SOFFS 7.5
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {B7B27901-DFF9-4865-889D-A2353F6367C3}
+      GUID {C327B6A4-2A6B-409A-9F1C-E471B64D2B34}
       <SOURCE WAVE
-        FILE "other_sounds\365613__pyro13djt__hellofriend.wav"
+        FILE "FOLDER01\pascal_better.wav"
+      >
+    >
+    <ITEM
+      POSITION 38
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {EFF8DA34-F556-416A-A5A5-F416009193B5}
+      IID 130
+      NAME franzi.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F0D39DDB-9983-4DC7-BFB1-C2CEC6234D94}
+      <SOURCE WAVE
+        FILE "FOLDER01\franzi.wav"
+      >
+    >
+    <ITEM
+      POSITION 40.5
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {45727B6C-1D88-4265-848E-1A98F40C8C47}
+      IID 118
+      NAME pascal_better.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 10
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A443F31E-0B39-4164-A72B-15A2BE43C1CA}
+      <SOURCE WAVE
+        FILE "FOLDER01\pascal_better.wav"
+      >
+    >
+    <ITEM
+      POSITION 42.5
+      SNAPOFFS 0
+      LENGTH 6.40476190476191
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5BF771DC-0A43-4BAC-B8F2-55493FFD54F4}
+      IID 136
+      NAME pascal_better.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 15
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9DAD48EC-1BF3-437E-A438-B0E9A0F53F96}
+      <SOURCE WAVE
+        FILE "FOLDER01\pascal_better.wav"
+      >
+    >
+    <ITEM
+      POSITION 50.5
+      SNAPOFFS 0
+      LENGTH 5.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8190097C-0A4F-4E0E-9CC4-97B36B9584E6}
+      IID 137
+      NAME pascal_better.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 21.40476190476191
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B5CFA401-610B-4D80-B0DD-14529F684A63}
+      <SOURCE WAVE
+        FILE "FOLDER01\pascal_better.wav"
+      >
+    >
+    <ITEM
+      POSITION 56
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9C86530D-E68E-429B-AD52-D209170D8309}
+      IID 138
+      NAME pascal_better.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 26.90476190476191
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {43CB2F92-E685-423F-8E48-2DCF68CCE6D8}
+      <SOURCE WAVE
+        FILE "FOLDER01\pascal_better.wav"
+      >
+    >
+    <ITEM
+      POSITION 66.79083900226757
+      SNAPOFFS 0
+      LENGTH 0.26
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1.1 0 0.050839 2 1 0
+      MUTE 0
+      SEL 0
+      IGUID {C0F9675A-8231-446C-9115-D4DA6E1A6374}
+      IID 140
+      NAME pascal_better.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 29.40476190476191
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A70BECC8-B1D9-4CFB-AFFB-8C9A142F4033}
+      <SOURCE WAVE
+        FILE "FOLDER01\pascal_better.wav"
+      >
+    >
+    <ITEM
+      POSITION 67
+      SNAPOFFS 0
+      LENGTH 2.29083900226757
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.050839 1 1 0
+      FADEOUT 1.1 0.01 0.5 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {6615B741-5F70-4535-A580-0A282B88500B}
+      IID 141
+      NAME pascal_better.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 32.15
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D755F08D-8F6A-455B-9C22-42E296A822CF}
+      <SOURCE WAVE
+        FILE "FOLDER01\pascal_better.wav"
+      >
+    >
+    <ITEM
+      POSITION 68.79083900226757
+      SNAPOFFS 0
+      LENGTH 3.500000000005
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.5 1 1 0
+      FADEOUT 1.1 0.01 0.5 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {B72E436C-BBA6-4C69-8AAF-0AA638F1968A}
+      IID 143
+      NAME pascal_better.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 35.40476190476191
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A0F8A0A8-E539-47AA-BC63-5EAD9739395B}
+      <SOURCE WAVE
+        FILE "FOLDER01\pascal_better.wav"
+      >
+    >
+    <ITEM
+      POSITION 71.79083900227258
+      SNAPOFFS 0
+      LENGTH 2.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.5 1 1 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {667E0DA1-907A-44C4-AEB0-8F1FBEBD9658}
+      IID 134
+      NAME franzi.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 7
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {39E75789-11B7-4424-8C96-BD6A36A856F1}
+      <SOURCE WAVE
+        FILE "FOLDER01\franzi.wav"
+      >
+    >
+    <ITEM
+      POSITION 122
+      SNAPOFFS 0
+      LENGTH 10.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {686811CE-BBAD-4C37-9DCC-4929D534BDAD}
+      IID 118
+      NAME pascal_better.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 29
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {918FD32C-D017-4E4B-9851-96274D003A0A}
+      <SOURCE WAVE
+        FILE "FOLDER01\pascal_better.wav"
       >
     >
   >
@@ -2553,7 +2562,7 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 41.70916099773243
+      POSITION 31
       SNAPOFFS 0
       LENGTH 16.47950113378657
       LOOP 1
@@ -2575,13 +2584,13 @@
       >
     >
     <ITEM
-      POSITION 58.188662131519
+      POSITION 47.5
       SNAPOFFS 0
       LENGTH 7.47954648526076
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
+      FADEOUT 1.1 0.01 1.311338 1 1 0
       MUTE 0
       SEL 0
       IGUID {ABC0A170-6B2E-423C-8F1F-B4DE361CDC07}
@@ -2597,12 +2606,12 @@
       >
     >
     <ITEM
-      POSITION 65.66820861677977
+      POSITION 53.66820861677977
       SNAPOFFS 0
       LENGTH 3.83179138322023
       LOOP 1
       ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
+      FADEIN 1.1 0.01 1.311338 1 1 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
@@ -2619,7 +2628,7 @@
       >
     >
     <ITEM
-      POSITION 69.5
+      POSITION 57.5
       SNAPOFFS 0
       LENGTH 6.5
       LOOP 1
@@ -2641,12 +2650,12 @@
       >
     >
   >
-  <TRACK {91CB76AD-F104-4AC2-9BCD-E082D1622E43}
-    NAME meow
+  <TRACK {7413CC6F-DA1A-459F-BC87-F1D750824CDE}
+    NAME franzi
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 0.15599568612717 0 -1 -1 1
+    VOLPAN 3.8400249411043 0 -1 -1 1
     MUTESOLO 1 0 0
     IPHASE 0
     ISBUS 0 0
@@ -2654,42 +2663,42 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
     SEL 0
-    REC 1 -1 0 0 0 0 0
+    REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
-    TRACKID {91CB76AD-F104-4AC2-9BCD-E082D1622E43}
+    TRACKID {7413CC6F-DA1A-459F-BC87-F1D750824CDE}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
     <FXCHAIN
-      WNDRECT 112 60 655 408
+      WNDRECT 24 52 655 408
       SHOW 0
       LASTSEL 0
       DOCKED 0
     >
     <ITEM
-      POSITION 48.29083900226757
+      POSITION 0
       SNAPOFFS 0
-      LENGTH 7.70916099773243
+      LENGTH 10.12825396825397
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {4D6F913F-D864-4A38-AE1E-57D522CA2C9B}
-      IID 2
-      NAME 213889__counter-gamer__the-cat-s-meow.wav
+      IGUID {FD6334EE-38E9-406C-9602-55C40AEF8400}
+      IID 119
+      NAME franzi.wav
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {83FA7846-7067-447D-B124-F12ED2E0FA65}
+      GUID {E7F4FFEF-3EEB-40F1-B4BB-F4D27C7613A6}
       <SOURCE WAVE
-        FILE "cat_sounds\213889__counter-gamer__the-cat-s-meow.wav"
+        FILE "FOLDER01\franzi.wav"
       >
     >
   >
